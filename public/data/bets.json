@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1782995003428",
+    "date": "2026-07-02",
+    "mock": false,
+    "hippodrome": "HIPPODROME DE PARISLONGCHAMP",
+    "reunion": "R1",
+    "course": "C7",
+    "discipline": "PLAT",
+    "nb_partants": 16,
+    "base": [
+      {
+        "num": 8,
+        "nom": "MELUSINE DU HOULEY",
+        "cote": 4.2,
+        "driver": "C.DEMURO"
+      },
+      {
+        "num": 9,
+        "nom": "KOMET CHOP",
+        "cote": 8.2,
+        "driver": "M.BARZALONA"
+      },
+      {
+        "num": 2,
+        "nom": "BON VIVEUR",
+        "cote": 8.4,
+        "driver": "S.PASQUIER"
+      },
+      {
+        "num": 4,
+        "nom": "BASANTI",
+        "cote": 9.8,
+        "driver": "A.POUCHIN"
+      },
+      {
+        "num": 3,
+        "nom": "SAINT SAENS",
+        "cote": 12,
+        "driver": "M.GUYON"
+      }
+    ],
+    "spare": {
+      "num": 13,
+      "nom": "WESTMINSTER COYOTE",
+      "cote": 15,
+      "driver": "A.CRASTUS"
+    },
+    "grilles": [
+      {
+        "id": "A",
+        "type": "ordre",
+        "libelle": "Grille de base — Quinté+ (ordre)",
+        "chevaux": [
+          8,
+          9,
+          2,
+          4,
+          3
+        ],
+        "mise": 3
+      },
+      {
+        "id": "B",
+        "type": "couverture",
+        "libelle": "Grille couverture — 4 bases + outsider",
+        "chevaux": [
+          8,
+          9,
+          2,
+          4,
+          13
+        ],
+        "mise": 2
+      }
+    ],
+    "mise_totale": 5,
+    "analyse": "Analyse simulée (sans clé API Gemini) : classement fondé sur les cotes du marché. Les favoris du marché constituent la base, complétés par deux outsiders de couverture.",
+    "statut": "en_attente",
+    "arrivee": null,
+    "gain": null
+  }
+]

@@ -1,0 +1,42 @@
+name: Analyse Quinté quotidienne
+
+on:
+  schedule:
+    # Le Quinté+ français se court généralement en début d'après-midi.
+    # On génère la grille le matin (heure de Paris) avec plusieurs tentatives,
+    # car GitHub retarde souvent les crons. Le garde-fou anti-doublon fait que
+    # seule la première exécution réussie du jour crée la grille.
+    - cron: '15 7 * * *'   # 09h15 Paris (été) — 1re tentative
+    - cron: '15 8 * * *'   # 10h15 Paris — 2e tentative
+    - cron: '15 9 * * *'   # 11h15 Paris — dernier filet
+  workflow_dispatch:
+
+jobs:
+  analyze_and_commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Install dependencies
+        run: npm install --legacy-peer-deps
+
+      - name: Run daily analysis
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+        run: npm run analyze
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add public/data/bankroll.json public/data/bets.json DAILY_BET.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Automatisation: grille Quinté du jour [skip ci]" && git push)
