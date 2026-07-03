@@ -1,5 +1,86 @@
 [
   {
+    "id": "1783073485718",
+    "date": "2026-07-03",
+    "mock": false,
+    "hippodrome": "HIPPODROME DE CABOURG",
+    "reunion": "R1",
+    "course": "C4",
+    "discipline": "ATTELE",
+    "nb_partants": 16,
+    "base": [
+      {
+        "num": 8,
+        "nom": "NIAGARA RIVER",
+        "cote": 4.8,
+        "driver": "Y. LEBOURGEOIS"
+      },
+      {
+        "num": 6,
+        "nom": "MAX OCCAGNES",
+        "cote": 4.8,
+        "driver": "D. LOCQUENEUX"
+      },
+      {
+        "num": 3,
+        "nom": "NELSON GREENWOOD",
+        "cote": 5.5,
+        "driver": "F. LAGADEUC"
+      },
+      {
+        "num": 9,
+        "nom": "KOALA BLUE",
+        "cote": 9.5,
+        "driver": "A. ABRIVARD"
+      },
+      {
+        "num": 14,
+        "nom": "JOYCE DES GRANGES",
+        "cote": 19,
+        "driver": "P.Y. VERVA"
+      }
+    ],
+    "spare": {
+      "num": 7,
+      "nom": "KAISER",
+      "cote": 16,
+      "driver": "F. NIVARD"
+    },
+    "grilles": [
+      {
+        "id": "A",
+        "type": "ordre",
+        "libelle": "Grille de base — Quinté+ (ordre)",
+        "chevaux": [
+          8,
+          6,
+          3,
+          9,
+          14
+        ],
+        "mise": 3
+      },
+      {
+        "id": "B",
+        "type": "couverture",
+        "libelle": "Grille couverture — 4 bases + outsider",
+        "chevaux": [
+          8,
+          6,
+          3,
+          9,
+          7
+        ],
+        "mise": 2
+      }
+    ],
+    "mise_totale": 5,
+    "analyse": "Pour ce Quinté+ disputé sur l'hippodrome de Cabourg, la sélection s'articule autour de bases particulièrement solides. Le grand favori est le 8 NIAGARA RIVER, qui aligne trois victoires consécutives et sera confié à Yoann Lebourgeois, le roi de la piste de Cabourg. Il devra toutefois redouter le 6 MAX OCCAGNES, qui affiche également une superbe forme récente (deux victoires) sous la houlette de son entraîneur-driver D. Locqueneux. Ce dernier présente également le 3 NELSON GREENWOOD, très compétitif à ce niveau et associé au redoutable F. Lagadeuc. Le 9 KOALA BLUE, d'une belle régularité et mené par A. Abrivard, complète cette base incontournable. Pour pimenter les rapports, le 14 JOYCE DES GRANGES est un choix de confiance pour les places au vu de sa musique ultra-régulière, tandis que le 7 KAISER (avec F. Nivard) et le 11 EXPRESS D'ARC constitueront d'excellentes couvertures. Côté actualités, l'environnement de cette course reste serein : aucun des entraîneurs ou jockeys phares de cette épreuve n'est concerné par les récentes affaires judiciaires ou de dopage qui secouent la filière, garantissant une compétition purement sportive.",
+    "statut": "en_attente",
+    "arrivee": null,
+    "gain": null
+  },
+  {
     "id": "1782996555744",
     "date": "2026-07-02",
     "mock": false,
@@ -76,8 +157,45 @@
     ],
     "mise_totale": 5,
     "analyse": "Le Prix de la Garden Party présente un lot de 3 ans très compétitif sur l'hippodrome de ParisLongchamp. Notre base s'appuie logiquement sur la favorite, MELUSINE DU HOULEY (8), d'une régularité exemplaire à ce niveau et associée à Cristian Demuro. Elle devra redouter principalement KOMET CHOP (9), confié à Mickaël Barzalona, et BON VIVEUR (2), qui aligne les bonnes performances sous la selle de Stéphane Pasquier. BASANTI (4), entraînée par le redoutable André Fabre, possède une marge de progression évidente et complète notre premier choix. En fin de combinaison, SAINT SAENS (3), avec Maxime Guyon, et LEVER DE RIDEAU (10), qui reste sur d'excellentes tentatives dans le Sud, sont incontournables. Enfin, WESTMINSTER COYOTE (13) constitue une couverture idéale pour l'entraînement très en forme de Yann Barberot.",
-    "statut": "en_attente",
-    "arrivee": null,
-    "gain": null
+    "statut": "perdu",
+    "arrivee": [
+      8,
+      6,
+      11,
+      15,
+      1,
+      12,
+      4,
+      7,
+      9,
+      3,
+      13,
+      10,
+      5,
+      2,
+      14
+    ],
+    "gain": 0,
+    "rapports": {
+      "ordre": null,
+      "desordre": null,
+      "bonus4": 5020,
+      "bonus3": 3360,
+      "estime": false
+    },
+    "resultats": [
+      {
+        "grille": "A",
+        "niveau": "perdu",
+        "rapport": 0,
+        "gain": 0
+      },
+      {
+        "grille": "B",
+        "niveau": "perdu",
+        "rapport": 0,
+        "gain": 0
+      }
+    ]
   }
 ]
