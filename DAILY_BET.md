@@ -1,26 +1,26 @@
-# 🏇 Grille Quinté+ du Jour — vendredi 3 juillet 2026
+# 🏇 Grille Quinté+ du Jour — samedi 4 juillet 2026
 
-**HIPPODROME DE CABOURG** · R1C4 · ATTELE
+**HIPPODROME D'ENGHIEN SOISY** · R1C4 · ATTELE
 
 ## 🎯 Base pronostiquée (dans l'ordre)
 
 | Rang | N° | Cheval | Cote |
 |---|---|---|---|
-| 1 | **8** | NIAGARA RIVER | 4.8 |
-| 2 | **6** | MAX OCCAGNES | 4.8 |
-| 3 | **3** | NELSON GREENWOOD | 5.5 |
-| 4 | **9** | KOALA BLUE | 9.5 |
-| 5 | **14** | JOYCE DES GRANGES | 19 |
-| Outsider | **7** | KAISER | 16 |
+| 1 | **5** | I LOVE JOSSELYN | 3.6 |
+| 2 | **11** | IDEFIX JIHEM | 8.5 |
+| 3 | **3** | ICARE DES VALOIS | 8 |
+| 4 | **1** | INSTALL D'ALOUETTE | 8.1 |
+| 5 | **6** | INEDIT DU PAVILLON | 11 |
+| Outsider | **12** | HOUSTON DE CUIGNY | 20 |
 
 ## 🎫 Grilles jouées (5.00 €)
 
-- **Grille de base — Quinté+ (ordre)** (3.00 €) : 8 - 6 - 3 - 9 - 14
-- **Grille couverture — 4 bases + outsider** (2.00 €) : 8 - 6 - 3 - 9 - 7
+- **Grille de base — Quinté+ (ordre)** (3.00 €) : 5 - 11 - 3 - 1 - 6
+- **Grille couverture — 4 bases + outsider** (2.00 €) : 5 - 11 - 3 - 1 - 12
 
 ## 🧠 Analyse de l'IA
 
-> Pour ce Quinté+ disputé sur l'hippodrome de Cabourg, la sélection s'articule autour de bases particulièrement solides. Le grand favori est le 8 NIAGARA RIVER, qui aligne trois victoires consécutives et sera confié à Yoann Lebourgeois, le roi de la piste de Cabourg. Il devra toutefois redouter le 6 MAX OCCAGNES, qui affiche également une superbe forme récente (deux victoires) sous la houlette de son entraîneur-driver D. Locqueneux. Ce dernier présente également le 3 NELSON GREENWOOD, très compétitif à ce niveau et associé au redoutable F. Lagadeuc. Le 9 KOALA BLUE, d'une belle régularité et mené par A. Abrivard, complète cette base incontournable. Pour pimenter les rapports, le 14 JOYCE DES GRANGES est un choix de confiance pour les places au vu de sa musique ultra-régulière, tandis que le 7 KAISER (avec F. Nivard) et le 11 EXPRESS D'ARC constitueront d'excellentes couvertures. Côté actualités, l'environnement de cette course reste serein : aucun des entraîneurs ou jockeys phares de cette épreuve n'est concerné par les récentes affaires judiciaires ou de dopage qui secouent la filière, garantissant une compétition purement sportive.
+> Sur le tracé de vitesse d'Enghien, notre favori sera le 5 I LOVE JOSSELYN, qui trouve ici un engagement en or. Malgré sa récente disqualification, sa classe pure et sa régularité précédente en font la base absolue de ce Quinté. Nous lui opposons directement le 11 IDEFIX JIHEM, qui reste sur un plaisant succès et semble au sommet de sa forme. Attention au 3 ICARE DES VALOIS : s'il reste sage d'un bout à l'autre du parcours, Alexandre Abrivard peut l'emmener sur le podium. Pour compléter notre base, le 1 INSTALL D'ALOUETTE, confié à Gabriele Gelormini, et le 6 INEDIT DU PAVILLON, très régulier à ce niveau, offrent de solides garanties. En coureurs de couverture, méfiance absolue à l'égard du 12 HOUSTON DE CUIGNY, transcendé par la drive d'Éric Raffin, et du 15 HELALI DE MONTCEAU, qui court toujours après une place et peut pimenter les rapports à belle cote. Les actualités judiciaires récentes rappellent la vigilance requise sur la forme des écuries, mais les forces en présence ici restent logiques.
 
 ---
 *Généré automatiquement par Gemini · Simulation à blanc. Jouer comporte des risques (18+).*

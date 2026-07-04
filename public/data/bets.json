@@ -1,5 +1,86 @@
 [
   {
+    "id": "1783157476634",
+    "date": "2026-07-04",
+    "mock": false,
+    "hippodrome": "HIPPODROME D'ENGHIEN SOISY",
+    "reunion": "R1",
+    "course": "C4",
+    "discipline": "ATTELE",
+    "nb_partants": 16,
+    "base": [
+      {
+        "num": 5,
+        "nom": "I LOVE JOSSELYN",
+        "cote": 3.6,
+        "driver": "R. DERIEUX"
+      },
+      {
+        "num": 11,
+        "nom": "IDEFIX JIHEM",
+        "cote": 8.5,
+        "driver": "E. DE JESUS"
+      },
+      {
+        "num": 3,
+        "nom": "ICARE DES VALOIS",
+        "cote": 8,
+        "driver": "A. ABRIVARD"
+      },
+      {
+        "num": 1,
+        "nom": "INSTALL D'ALOUETTE",
+        "cote": 8.1,
+        "driver": "G. GELORMINI"
+      },
+      {
+        "num": 6,
+        "nom": "INEDIT DU PAVILLON",
+        "cote": 11,
+        "driver": "M. ABRIVARD"
+      }
+    ],
+    "spare": {
+      "num": 12,
+      "nom": "HOUSTON DE CUIGNY",
+      "cote": 20,
+      "driver": "E. RAFFIN"
+    },
+    "grilles": [
+      {
+        "id": "A",
+        "type": "ordre",
+        "libelle": "Grille de base — Quinté+ (ordre)",
+        "chevaux": [
+          5,
+          11,
+          3,
+          1,
+          6
+        ],
+        "mise": 3
+      },
+      {
+        "id": "B",
+        "type": "couverture",
+        "libelle": "Grille couverture — 4 bases + outsider",
+        "chevaux": [
+          5,
+          11,
+          3,
+          1,
+          12
+        ],
+        "mise": 2
+      }
+    ],
+    "mise_totale": 5,
+    "analyse": "Sur le tracé de vitesse d'Enghien, notre favori sera le 5 I LOVE JOSSELYN, qui trouve ici un engagement en or. Malgré sa récente disqualification, sa classe pure et sa régularité précédente en font la base absolue de ce Quinté. Nous lui opposons directement le 11 IDEFIX JIHEM, qui reste sur un plaisant succès et semble au sommet de sa forme. Attention au 3 ICARE DES VALOIS : s'il reste sage d'un bout à l'autre du parcours, Alexandre Abrivard peut l'emmener sur le podium. Pour compléter notre base, le 1 INSTALL D'ALOUETTE, confié à Gabriele Gelormini, et le 6 INEDIT DU PAVILLON, très régulier à ce niveau, offrent de solides garanties. En coureurs de couverture, méfiance absolue à l'égard du 12 HOUSTON DE CUIGNY, transcendé par la drive d'Éric Raffin, et du 15 HELALI DE MONTCEAU, qui court toujours après une place et peut pimenter les rapports à belle cote. Les actualités judiciaires récentes rappellent la vigilance requise sur la forme des écuries, mais les forces en présence ici restent logiques.",
+    "statut": "en_attente",
+    "arrivee": null,
+    "gain": null
+  },
+  {
     "id": "1783073485718",
     "date": "2026-07-03",
     "mock": false,
@@ -76,9 +157,43 @@
     ],
     "mise_totale": 5,
     "analyse": "Pour ce Quinté+ disputé sur l'hippodrome de Cabourg, la sélection s'articule autour de bases particulièrement solides. Le grand favori est le 8 NIAGARA RIVER, qui aligne trois victoires consécutives et sera confié à Yoann Lebourgeois, le roi de la piste de Cabourg. Il devra toutefois redouter le 6 MAX OCCAGNES, qui affiche également une superbe forme récente (deux victoires) sous la houlette de son entraîneur-driver D. Locqueneux. Ce dernier présente également le 3 NELSON GREENWOOD, très compétitif à ce niveau et associé au redoutable F. Lagadeuc. Le 9 KOALA BLUE, d'une belle régularité et mené par A. Abrivard, complète cette base incontournable. Pour pimenter les rapports, le 14 JOYCE DES GRANGES est un choix de confiance pour les places au vu de sa musique ultra-régulière, tandis que le 7 KAISER (avec F. Nivard) et le 11 EXPRESS D'ARC constitueront d'excellentes couvertures. Côté actualités, l'environnement de cette course reste serein : aucun des entraîneurs ou jockeys phares de cette épreuve n'est concerné par les récentes affaires judiciaires ou de dopage qui secouent la filière, garantissant une compétition purement sportive.",
-    "statut": "en_attente",
-    "arrivee": null,
-    "gain": null
+    "statut": "perdu",
+    "arrivee": [
+      7,
+      5,
+      10,
+      12,
+      4,
+      1,
+      16,
+      14,
+      11,
+      13,
+      9,
+      6
+    ],
+    "gain": 0,
+    "rapports": {
+      "ordre": null,
+      "desordre": null,
+      "bonus4": 8360,
+      "bonus3": 5420,
+      "estime": false
+    },
+    "resultats": [
+      {
+        "grille": "A",
+        "niveau": "perdu",
+        "rapport": 0,
+        "gain": 0
+      },
+      {
+        "grille": "B",
+        "niveau": "perdu",
+        "rapport": 0,
+        "gain": 0
+      }
+    ]
   },
   {
     "id": "1782996555744",
