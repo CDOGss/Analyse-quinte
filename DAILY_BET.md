@@ -1,26 +1,26 @@
-# 🏇 Grille Quinté+ du Jour — samedi 4 juillet 2026
+# 🏇 Grille Quinté+ du Jour — dimanche 5 juillet 2026
 
-**HIPPODROME D'ENGHIEN SOISY** · R1C4 · ATTELE
+**HIPPODROME DE SAINT-CLOUD** · R1C3 · PLAT
 
 ## 🎯 Base pronostiquée (dans l'ordre)
 
 | Rang | N° | Cheval | Cote |
 |---|---|---|---|
-| 1 | **5** | I LOVE JOSSELYN | 3.6 |
-| 2 | **11** | IDEFIX JIHEM | 8.5 |
-| 3 | **3** | ICARE DES VALOIS | 8 |
-| 4 | **1** | INSTALL D'ALOUETTE | 8.1 |
-| 5 | **6** | INEDIT DU PAVILLON | 11 |
-| Outsider | **12** | HOUSTON DE CUIGNY | 20 |
+| 1 | **8** | KRASKHOV | 5.3 |
+| 2 | **4** | HALF HALF | 8 |
+| 3 | **1** | TIEGO THE FIRST | 11 |
+| 4 | **3** | OLYMPIC MESSAGE | 13 |
+| 5 | **10** | CICCIO BOY | 11 |
+| Outsider | **6** | PYRAMIDE | 11 |
 
 ## 🎫 Grilles jouées (5.00 €)
 
-- **Grille de base — Quinté+ (ordre)** (3.00 €) : 5 - 11 - 3 - 1 - 6
-- **Grille couverture — 4 bases + outsider** (2.00 €) : 5 - 11 - 3 - 1 - 12
+- **Grille de base — Quinté+ (ordre)** (3.00 €) : 8 - 4 - 1 - 3 - 10
+- **Grille couverture — 4 bases + outsider** (2.00 €) : 8 - 4 - 1 - 3 - 6
 
 ## 🧠 Analyse de l'IA
 
-> Sur le tracé de vitesse d'Enghien, notre favori sera le 5 I LOVE JOSSELYN, qui trouve ici un engagement en or. Malgré sa récente disqualification, sa classe pure et sa régularité précédente en font la base absolue de ce Quinté. Nous lui opposons directement le 11 IDEFIX JIHEM, qui reste sur un plaisant succès et semble au sommet de sa forme. Attention au 3 ICARE DES VALOIS : s'il reste sage d'un bout à l'autre du parcours, Alexandre Abrivard peut l'emmener sur le podium. Pour compléter notre base, le 1 INSTALL D'ALOUETTE, confié à Gabriele Gelormini, et le 6 INEDIT DU PAVILLON, très régulier à ce niveau, offrent de solides garanties. En coureurs de couverture, méfiance absolue à l'égard du 12 HOUSTON DE CUIGNY, transcendé par la drive d'Éric Raffin, et du 15 HELALI DE MONTCEAU, qui court toujours après une place et peut pimenter les rapports à belle cote. Les actualités judiciaires récentes rappellent la vigilance requise sur la forme des écuries, mais les forces en présence ici restent logiques.
+> Dans ce Quinté+ très ouvert disputé sur le profil sélectif de Saint-Cloud, la régularité et l'aptitude au terrain seront les clés du succès. En tête de notre sélection, le 8 KRASKHOV présente d'incontestables garanties de régularité et bénéficie de la monte de C. Soumillon ; il mérite d'être racheté en confiance pour la victoire. Nous lui opposons directement le 4 HALF HALF, qui enchaîne les bonnes performances à ce niveau et s'annonce redoutable pour les premières places avec A. Pouchin. Le top-weight 1 TIEGO THE FIRST, confié à M. Guyon, détient une première chance théorique évidente malgré le poids. Le 3 OLYMPIC MESSAGE, d'une louable constance, et le 10 CICCIO BOY, qui vient de prouver son retour en forme par une excellente deuxième place, complètent notre base solide. Pour pimenter les rapports, le 6 PYRAMIDE (sur sa fraîcheur) et le 11 NO LIMIT DREAM (associé à M. Barzalona) constitueront d'excellentes cartouches de couverture. Le piège à éviter réside dans l'état de la piste : un terrain lourd ou collant à Saint-Cloud pourrait rebattre les cartes et favoriser les chevaux s'élançant avec de petits numéros de corde.
 
 ---
 *Généré automatiquement par Gemini · Simulation à blanc. Jouer comporte des risques (18+).*
