@@ -1,26 +1,26 @@
-# 🏇 Grille Quinté+ du Jour — dimanche 5 juillet 2026
+# 🏇 Grille Quinté+ du Jour — lundi 6 juillet 2026
 
-**HIPPODROME DE SAINT-CLOUD** · R1C3 · PLAT
+**HIPPODROME DES SABLES D OLONNE** · R1C8 · ATTELE
 
 ## 🎯 Base pronostiquée (dans l'ordre)
 
 | Rang | N° | Cheval | Cote |
 |---|---|---|---|
-| 1 | **8** | KRASKHOV | 5.3 |
-| 2 | **4** | HALF HALF | 8 |
-| 3 | **1** | TIEGO THE FIRST | 11 |
-| 4 | **3** | OLYMPIC MESSAGE | 13 |
-| 5 | **10** | CICCIO BOY | 11 |
-| Outsider | **6** | PYRAMIDE | 11 |
+| 1 | **2** | JIM D'ALOUETTE | 3.3 |
+| 2 | **7** | JACKPOT MEARAS | 4.3 |
+| 3 | **1** | TOSCANA SOUTHWIND | 6.2 |
+| 4 | **3** | VINCI NICE | 12 |
+| 5 | **13** | ORLANDO YOUNG | 19 |
+| Outsider | **9** | GLOBAL DUTY | 19 |
 
 ## 🎫 Grilles jouées (5.00 €)
 
-- **Grille de base — Quinté+ (ordre)** (3.00 €) : 8 - 4 - 1 - 3 - 10
-- **Grille couverture — 4 bases + outsider** (2.00 €) : 8 - 4 - 1 - 3 - 6
+- **Grille de base — Quinté+ (ordre)** (3.00 €) : 2 - 7 - 1 - 3 - 13
+- **Grille couverture — 4 bases + outsider** (2.00 €) : 2 - 7 - 1 - 3 - 9
 
 ## 🧠 Analyse de l'IA
 
-> Dans ce Quinté+ très ouvert disputé sur le profil sélectif de Saint-Cloud, la régularité et l'aptitude au terrain seront les clés du succès. En tête de notre sélection, le 8 KRASKHOV présente d'incontestables garanties de régularité et bénéficie de la monte de C. Soumillon ; il mérite d'être racheté en confiance pour la victoire. Nous lui opposons directement le 4 HALF HALF, qui enchaîne les bonnes performances à ce niveau et s'annonce redoutable pour les premières places avec A. Pouchin. Le top-weight 1 TIEGO THE FIRST, confié à M. Guyon, détient une première chance théorique évidente malgré le poids. Le 3 OLYMPIC MESSAGE, d'une louable constance, et le 10 CICCIO BOY, qui vient de prouver son retour en forme par une excellente deuxième place, complètent notre base solide. Pour pimenter les rapports, le 6 PYRAMIDE (sur sa fraîcheur) et le 11 NO LIMIT DREAM (associé à M. Barzalona) constitueront d'excellentes cartouches de couverture. Le piège à éviter réside dans l'état de la piste : un terrain lourd ou collant à Saint-Cloud pourrait rebattre les cartes et favoriser les chevaux s'élançant avec de petits numéros de corde.
+> Une épreuve intéressante sur l'hippodrome des Sables d'Olonne où la qualité des concurrents étrangers se mesure aux valeurs locales bien connues. Ma base absolue repose sur le très régulier **Jim d'Alouette (2)**, qui se retrouve idéalement engagé et sera mené par l'incontournable Éric Raffin. Il devra toutefois redouter la candidature de l'extrêmement doué **Jackpot Mearas (7)**, un scandinave qui enchaîne les succès et s'annonce redoutable pour la victoire. En troisième ligne, **Toscana Southwind (1)**, associé à Benjamin Rochard et entraîné par le redoutable H.E. Bondo, présente de solides garanties de compétitivité. Pour les places, **Vinci Nice (3)**, piloté par Franck Nivard, détient une chance théorique évidente dans cette catégorie, tout comme **Orlando Young (13)**, un modèle de régularité qui court toujours bien frais. Enfin, pour pimenter les rapports, **Global Duty (9)**, venant de montrer sa forme par une 3e place encourageante, et l'intermittent mais doué **Idéal d'Urzy (5)** (tout ou rien avec lui) complètent cette sélection en guise d'excellentes couvertures.
 
 ---
 *Généré automatiquement par Gemini · Simulation à blanc. Jouer comporte des risques (18+).*
