@@ -1,5 +1,86 @@
 [
   {
+    "id": "1783420348720",
+    "date": "2026-07-07",
+    "mock": false,
+    "hippodrome": "HIPPODROME DE CHANTILLY",
+    "reunion": "R1",
+    "course": "C8",
+    "discipline": "PLAT",
+    "nb_partants": 16,
+    "base": [
+      {
+        "num": 15,
+        "nom": "MISTER BLACK",
+        "cote": 4.9,
+        "driver": "A.POUCHIN"
+      },
+      {
+        "num": 7,
+        "nom": "EGYPTIAN GLORY",
+        "cote": 7.5,
+        "driver": "T.BACHELOT"
+      },
+      {
+        "num": 4,
+        "nom": "INGEBORG",
+        "cote": 9.8,
+        "driver": "M.BARZALONA"
+      },
+      {
+        "num": 2,
+        "nom": "MODELE ABSOLU",
+        "cote": 12,
+        "driver": "A.LEMAITRE"
+      },
+      {
+        "num": 11,
+        "nom": "RUE RECAMIER",
+        "cote": 13,
+        "driver": "M.GRANDIN"
+      }
+    ],
+    "spare": {
+      "num": 1,
+      "nom": "TI AMO BELLO",
+      "cote": 13,
+      "driver": "C.DEMURO"
+    },
+    "grilles": [
+      {
+        "id": "A",
+        "type": "ordre",
+        "libelle": "Grille de base — Quinté+ (ordre)",
+        "chevaux": [
+          15,
+          7,
+          4,
+          2,
+          11
+        ],
+        "mise": 3
+      },
+      {
+        "id": "B",
+        "type": "couverture",
+        "libelle": "Grille couverture — 4 bases + outsider",
+        "chevaux": [
+          15,
+          7,
+          4,
+          2,
+          1
+        ],
+        "mise": 2
+      }
+    ],
+    "mise_totale": 5,
+    "analyse": "Pour ce Quinté+ disputé sur l'exigeant tracé de Chantilly, la base incontournable est MISTER BLACK (15). Favori logique à 4.9, il fait preuve d'une régularité remarquable dans cette catégorie (quatre fois dans l'argent lors de ses dernières sorties) et s'élance avec la confiance de l'écurie Lerner. L'opposition sera menée par EGYPTIAN GLORY (7), entraîné par le local Stéphane Wattel et associé à Théo Bachelot, qui reste sur une excellente deuxième place et possède encore une belle marge de progression. INGEBORG (4), menée par un Mickael Barzalona toujours redoutable dans ces tournois, offre de solides garanties de compétitivité. En dépit d'une situation sur l'échelle des valeurs qui se complique, MODELE ABSOLU (2) est dans la forme de sa vie (enchaînant les victoires récemment) et ne peut être écarté pour les premières places. RUE RECAMIER (11), très sérieuse, complétera notre sélection de base. En couverture, TI AMO BELLO (1), récent lauréat associé à Cristian Demuro, et ANDEOL (3), qui bénéficie de la monte de Maxime Guyon pour l'entraînement Ferland, sont d'excellents outsiders capables de pimenter les rapports dans ce Prix Le Roi Soleil.",
+    "statut": "en_attente",
+    "arrivee": null,
+    "gain": null
+  },
+  {
     "id": "1783338255122",
     "date": "2026-07-06",
     "mock": false,
@@ -76,9 +157,41 @@
     ],
     "mise_totale": 5,
     "analyse": "Une épreuve intéressante sur l'hippodrome des Sables d'Olonne où la qualité des concurrents étrangers se mesure aux valeurs locales bien connues. Ma base absolue repose sur le très régulier **Jim d'Alouette (2)**, qui se retrouve idéalement engagé et sera mené par l'incontournable Éric Raffin. Il devra toutefois redouter la candidature de l'extrêmement doué **Jackpot Mearas (7)**, un scandinave qui enchaîne les succès et s'annonce redoutable pour la victoire. En troisième ligne, **Toscana Southwind (1)**, associé à Benjamin Rochard et entraîné par le redoutable H.E. Bondo, présente de solides garanties de compétitivité. Pour les places, **Vinci Nice (3)**, piloté par Franck Nivard, détient une chance théorique évidente dans cette catégorie, tout comme **Orlando Young (13)**, un modèle de régularité qui court toujours bien frais. Enfin, pour pimenter les rapports, **Global Duty (9)**, venant de montrer sa forme par une 3e place encourageante, et l'intermittent mais doué **Idéal d'Urzy (5)** (tout ou rien avec lui) complètent cette sélection en guise d'excellentes couvertures.",
-    "statut": "en_attente",
-    "arrivee": null,
-    "gain": null
+    "statut": "perdu",
+    "arrivee": [
+      7,
+      4,
+      2,
+      8,
+      3,
+      13,
+      12,
+      10,
+      11,
+      6
+    ],
+    "gain": 0,
+    "rapports": {
+      "ordre": 2528020,
+      "desordre": null,
+      "bonus4": 580,
+      "bonus3": 460,
+      "estime": false
+    },
+    "resultats": [
+      {
+        "grille": "A",
+        "niveau": "perdu",
+        "rapport": 0,
+        "gain": 0
+      },
+      {
+        "grille": "B",
+        "niveau": "perdu",
+        "rapport": 0,
+        "gain": 0
+      }
+    ]
   },
   {
     "id": "1783244824378",

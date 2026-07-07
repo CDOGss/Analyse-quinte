@@ -1,26 +1,26 @@
-# 🏇 Grille Quinté+ du Jour — lundi 6 juillet 2026
+# 🏇 Grille Quinté+ du Jour — mardi 7 juillet 2026
 
-**HIPPODROME DES SABLES D OLONNE** · R1C8 · ATTELE
+**HIPPODROME DE CHANTILLY** · R1C8 · PLAT
 
 ## 🎯 Base pronostiquée (dans l'ordre)
 
 | Rang | N° | Cheval | Cote |
 |---|---|---|---|
-| 1 | **2** | JIM D'ALOUETTE | 3.3 |
-| 2 | **7** | JACKPOT MEARAS | 4.3 |
-| 3 | **1** | TOSCANA SOUTHWIND | 6.2 |
-| 4 | **3** | VINCI NICE | 12 |
-| 5 | **13** | ORLANDO YOUNG | 19 |
-| Outsider | **9** | GLOBAL DUTY | 19 |
+| 1 | **15** | MISTER BLACK | 4.9 |
+| 2 | **7** | EGYPTIAN GLORY | 7.5 |
+| 3 | **4** | INGEBORG | 9.8 |
+| 4 | **2** | MODELE ABSOLU | 12 |
+| 5 | **11** | RUE RECAMIER | 13 |
+| Outsider | **1** | TI AMO BELLO | 13 |
 
 ## 🎫 Grilles jouées (5.00 €)
 
-- **Grille de base — Quinté+ (ordre)** (3.00 €) : 2 - 7 - 1 - 3 - 13
-- **Grille couverture — 4 bases + outsider** (2.00 €) : 2 - 7 - 1 - 3 - 9
+- **Grille de base — Quinté+ (ordre)** (3.00 €) : 15 - 7 - 4 - 2 - 11
+- **Grille couverture — 4 bases + outsider** (2.00 €) : 15 - 7 - 4 - 2 - 1
 
 ## 🧠 Analyse de l'IA
 
-> Une épreuve intéressante sur l'hippodrome des Sables d'Olonne où la qualité des concurrents étrangers se mesure aux valeurs locales bien connues. Ma base absolue repose sur le très régulier **Jim d'Alouette (2)**, qui se retrouve idéalement engagé et sera mené par l'incontournable Éric Raffin. Il devra toutefois redouter la candidature de l'extrêmement doué **Jackpot Mearas (7)**, un scandinave qui enchaîne les succès et s'annonce redoutable pour la victoire. En troisième ligne, **Toscana Southwind (1)**, associé à Benjamin Rochard et entraîné par le redoutable H.E. Bondo, présente de solides garanties de compétitivité. Pour les places, **Vinci Nice (3)**, piloté par Franck Nivard, détient une chance théorique évidente dans cette catégorie, tout comme **Orlando Young (13)**, un modèle de régularité qui court toujours bien frais. Enfin, pour pimenter les rapports, **Global Duty (9)**, venant de montrer sa forme par une 3e place encourageante, et l'intermittent mais doué **Idéal d'Urzy (5)** (tout ou rien avec lui) complètent cette sélection en guise d'excellentes couvertures.
+> Pour ce Quinté+ disputé sur l'exigeant tracé de Chantilly, la base incontournable est MISTER BLACK (15). Favori logique à 4.9, il fait preuve d'une régularité remarquable dans cette catégorie (quatre fois dans l'argent lors de ses dernières sorties) et s'élance avec la confiance de l'écurie Lerner. L'opposition sera menée par EGYPTIAN GLORY (7), entraîné par le local Stéphane Wattel et associé à Théo Bachelot, qui reste sur une excellente deuxième place et possède encore une belle marge de progression. INGEBORG (4), menée par un Mickael Barzalona toujours redoutable dans ces tournois, offre de solides garanties de compétitivité. En dépit d'une situation sur l'échelle des valeurs qui se complique, MODELE ABSOLU (2) est dans la forme de sa vie (enchaînant les victoires récemment) et ne peut être écarté pour les premières places. RUE RECAMIER (11), très sérieuse, complétera notre sélection de base. En couverture, TI AMO BELLO (1), récent lauréat associé à Cristian Demuro, et ANDEOL (3), qui bénéficie de la monte de Maxime Guyon pour l'entraînement Ferland, sont d'excellents outsiders capables de pimenter les rapports dans ce Prix Le Roi Soleil.
 
 ---
 *Généré automatiquement par Gemini · Simulation à blanc. Jouer comporte des risques (18+).*
