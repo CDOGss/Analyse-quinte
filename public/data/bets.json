@@ -1,5 +1,86 @@
 [
   {
+    "id": "1783503426688",
+    "date": "2026-07-08",
+    "mock": false,
+    "hippodrome": "HIPPODROME DE PORNICHET",
+    "reunion": "R1",
+    "course": "C5",
+    "discipline": "ATTELE",
+    "nb_partants": 14,
+    "base": [
+      {
+        "num": 9,
+        "nom": "JUSSEO",
+        "cote": 2.2,
+        "driver": "E. RAFFIN"
+      },
+      {
+        "num": 8,
+        "nom": "JOLYDOLE",
+        "cote": 5.3,
+        "driver": "M. ABRIVARD"
+      },
+      {
+        "num": 10,
+        "nom": "JAGUAR DU FAN",
+        "cote": 11,
+        "driver": "B. ROCHARD"
+      },
+      {
+        "num": 12,
+        "nom": "ILMAT DES KECHES",
+        "cote": 13,
+        "driver": "A. WIELS"
+      },
+      {
+        "num": 11,
+        "nom": "JIMINY CRICKET",
+        "cote": 17,
+        "driver": "J.PH. MONCLIN"
+      }
+    ],
+    "spare": {
+      "num": 7,
+      "nom": "JONQUILLE DE MEAT",
+      "cote": 20,
+      "driver": "F. GUINHUT"
+    },
+    "grilles": [
+      {
+        "id": "A",
+        "type": "ordre",
+        "libelle": "Grille de base — Quinté+ (ordre)",
+        "chevaux": [
+          9,
+          8,
+          10,
+          12,
+          11
+        ],
+        "mise": 3
+      },
+      {
+        "id": "B",
+        "type": "couverture",
+        "libelle": "Grille couverture — 4 bases + outsider",
+        "chevaux": [
+          9,
+          8,
+          10,
+          12,
+          7
+        ],
+        "mise": 2
+      }
+    ],
+    "mise_totale": 5,
+    "analyse": "Le grandissime favori JUSSEO (9), confié à Éric Raffin, s'annonce difficile à battre s'il reste sage d'un bout à l'autre du parcours. Sa classe est évidente à ce niveau. Pour lui donner la réplique, JOLYDOLE (8), menée par Matthieu Abrivard, retrouve sa discipline de prédilection (l'attelé) avec de logiques ambitions de podium. JAGUAR DU FAN (10), associé à Benjamin Rochard, vaut bien mieux que sa dernière disqualification et doit être racheté en confiance. ILMAT DES KECHES (12), entraîné par le redoutable J.P. Marmion et piloté par A. Wiels, présente de solides garanties de régularité à l'attelé. JIMINY CRICKET (11) est capable d'un coup d'éclat s'il bénéficie d'un bon parcours caché. En fin de combinaison, JONQUILLE DE MEAT (7) fait preuve d'une belle constance et visera une place, tandis que le délicat mais doué ILLICO PRESTO FAC (4), récent lauréat, servira de couverture spéculative. Les récentes actualités judiciaires ou de galop (Jockey Club) n'impactent pas ce lot homogène de trotteurs à Pornichet.",
+    "statut": "en_attente",
+    "arrivee": null,
+    "gain": null
+  },
+  {
     "id": "1783420348720",
     "date": "2026-07-07",
     "mock": false,
@@ -76,9 +157,46 @@
     ],
     "mise_totale": 5,
     "analyse": "Pour ce Quinté+ disputé sur l'exigeant tracé de Chantilly, la base incontournable est MISTER BLACK (15). Favori logique à 4.9, il fait preuve d'une régularité remarquable dans cette catégorie (quatre fois dans l'argent lors de ses dernières sorties) et s'élance avec la confiance de l'écurie Lerner. L'opposition sera menée par EGYPTIAN GLORY (7), entraîné par le local Stéphane Wattel et associé à Théo Bachelot, qui reste sur une excellente deuxième place et possède encore une belle marge de progression. INGEBORG (4), menée par un Mickael Barzalona toujours redoutable dans ces tournois, offre de solides garanties de compétitivité. En dépit d'une situation sur l'échelle des valeurs qui se complique, MODELE ABSOLU (2) est dans la forme de sa vie (enchaînant les victoires récemment) et ne peut être écarté pour les premières places. RUE RECAMIER (11), très sérieuse, complétera notre sélection de base. En couverture, TI AMO BELLO (1), récent lauréat associé à Cristian Demuro, et ANDEOL (3), qui bénéficie de la monte de Maxime Guyon pour l'entraînement Ferland, sont d'excellents outsiders capables de pimenter les rapports dans ce Prix Le Roi Soleil.",
-    "statut": "en_attente",
-    "arrivee": null,
-    "gain": null
+    "statut": "perdu",
+    "arrivee": [
+      5,
+      3,
+      7,
+      10,
+      2,
+      13,
+      15,
+      16,
+      4,
+      8,
+      14,
+      9,
+      12,
+      11,
+      1
+    ],
+    "gain": 0,
+    "rapports": {
+      "ordre": null,
+      "desordre": null,
+      "bonus4": 1180,
+      "bonus3": 860,
+      "estime": false
+    },
+    "resultats": [
+      {
+        "grille": "A",
+        "niveau": "perdu",
+        "rapport": 0,
+        "gain": 0
+      },
+      {
+        "grille": "B",
+        "niveau": "perdu",
+        "rapport": 0,
+        "gain": 0
+      }
+    ]
   },
   {
     "id": "1783338255122",
