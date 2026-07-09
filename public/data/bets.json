@@ -1,5 +1,86 @@
 [
   {
+    "id": "1783593329600",
+    "date": "2026-07-09",
+    "mock": false,
+    "hippodrome": "HIPPODROME D'ENGHIEN SOISY",
+    "reunion": "R1",
+    "course": "C8",
+    "discipline": "ATTELE",
+    "nb_partants": 14,
+    "base": [
+      {
+        "num": 3,
+        "nom": "KINGSLAYER PELLINI",
+        "cote": 3,
+        "driver": "CH. MARTENS"
+      },
+      {
+        "num": 8,
+        "nom": "JACOMO BELLO",
+        "cote": 6.1,
+        "driver": "M. MOTTIER"
+      },
+      {
+        "num": 1,
+        "nom": "READLY LAVEC",
+        "cote": 8,
+        "driver": "P.PH. PLOQUIN"
+      },
+      {
+        "num": 10,
+        "nom": "MAX OCCAGNES",
+        "cote": 11,
+        "driver": "E. RAFFIN"
+      },
+      {
+        "num": 5,
+        "nom": "JOUR DE FETE",
+        "cote": 11,
+        "driver": "N. BAZIRE"
+      }
+    ],
+    "spare": {
+      "num": 7,
+      "nom": "GAMIN DES ISLES",
+      "cote": 20,
+      "driver": "E. DE JESUS"
+    },
+    "grilles": [
+      {
+        "id": "A",
+        "type": "ordre",
+        "libelle": "Grille de base — Quinté+ (ordre)",
+        "chevaux": [
+          3,
+          8,
+          1,
+          10,
+          5
+        ],
+        "mise": 3
+      },
+      {
+        "id": "B",
+        "type": "couverture",
+        "libelle": "Grille couverture — 4 bases + outsider",
+        "chevaux": [
+          3,
+          8,
+          1,
+          10,
+          7
+        ],
+        "mise": 2
+      }
+    ],
+    "mise_totale": 5,
+    "analyse": "Une épreuve de vitesse sur le plateau d'Enghien où les concurrents de premier plan s'annoncent redoutables. Le grand favori est sans conteste le 3 KINGSLAYER PELLINI, qui enchaîne les victoires avec une facilité déconcertante et bénéficie de la drive de Christophe Martens. Pour lui barrer la route, le 8 JACOMO BELLO présente de solides garanties de régularité (1a2a2a) sous la poigne de Mathieu Mottier, malgré son numéro en dehors. Le 1 READLY LAVEC, lauréat pour sa rentrée, a franchi un palier et s'élancera avec de grosses ambitions. En embuscade, attention au 10 MAX OCCAGNES, qui retrouve Eric Raffin au sulky pour racheter ses derniers faux-pas, et au 5 JOUR DE FETE, préparé avec soin par Nicolas Bazire. Pour pimenter les rapports, le très régulier 7 GAMIN DES ISLES constitue une superbe base de jeu de couverture pour les places, tout comme le 14 SCHAMPUS, confié à Gabriele Gelormini, capable d'un coup d'éclat sur ce tracé.",
+    "statut": "en_attente",
+    "arrivee": null,
+    "gain": null
+  },
+  {
     "id": "1783503426688",
     "date": "2026-07-08",
     "mock": false,
@@ -76,9 +157,45 @@
     ],
     "mise_totale": 5,
     "analyse": "Le grandissime favori JUSSEO (9), confié à Éric Raffin, s'annonce difficile à battre s'il reste sage d'un bout à l'autre du parcours. Sa classe est évidente à ce niveau. Pour lui donner la réplique, JOLYDOLE (8), menée par Matthieu Abrivard, retrouve sa discipline de prédilection (l'attelé) avec de logiques ambitions de podium. JAGUAR DU FAN (10), associé à Benjamin Rochard, vaut bien mieux que sa dernière disqualification et doit être racheté en confiance. ILMAT DES KECHES (12), entraîné par le redoutable J.P. Marmion et piloté par A. Wiels, présente de solides garanties de régularité à l'attelé. JIMINY CRICKET (11) est capable d'un coup d'éclat s'il bénéficie d'un bon parcours caché. En fin de combinaison, JONQUILLE DE MEAT (7) fait preuve d'une belle constance et visera une place, tandis que le délicat mais doué ILLICO PRESTO FAC (4), récent lauréat, servira de couverture spéculative. Les récentes actualités judiciaires ou de galop (Jockey Club) n'impactent pas ce lot homogène de trotteurs à Pornichet.",
-    "statut": "en_attente",
-    "arrivee": null,
-    "gain": null
+    "statut": "gagné",
+    "arrivee": [
+      9,
+      8,
+      7,
+      13,
+      14,
+      11,
+      2,
+      12,
+      10,
+      4,
+      1,
+      5,
+      3,
+      6
+    ],
+    "gain": 300,
+    "rapports": {
+      "ordre": 185740,
+      "desordre": null,
+      "bonus4": 360,
+      "bonus3": 300,
+      "estime": false
+    },
+    "resultats": [
+      {
+        "grille": "A",
+        "niveau": "perdu",
+        "rapport": 0,
+        "gain": 0
+      },
+      {
+        "grille": "B",
+        "niveau": "bonus3",
+        "rapport": 300,
+        "gain": 300
+      }
+    ]
   },
   {
     "id": "1783420348720",
