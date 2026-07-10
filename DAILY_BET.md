@@ -1,26 +1,26 @@
-# 🏇 Grille Quinté+ du Jour — jeudi 9 juillet 2026
+# 🏇 Grille Quinté+ du Jour — vendredi 10 juillet 2026
 
-**HIPPODROME D'ENGHIEN SOISY** · R1C8 · ATTELE
+**HIPPODROME DE CABOURG** · R1C4 · ATTELE
 
 ## 🎯 Base pronostiquée (dans l'ordre)
 
 | Rang | N° | Cheval | Cote |
 |---|---|---|---|
-| 1 | **3** | KINGSLAYER PELLINI | 3 |
-| 2 | **8** | JACOMO BELLO | 6.1 |
-| 3 | **1** | READLY LAVEC | 8 |
-| 4 | **10** | MAX OCCAGNES | 11 |
-| 5 | **5** | JOUR DE FETE | 11 |
-| Outsider | **7** | GAMIN DES ISLES | 20 |
+| 1 | **15** | JASMIN GEMA | 2.2 |
+| 2 | **5** | JOKER GES | 7.8 |
+| 3 | **9** | JOCELYNE | 9.8 |
+| 4 | **11** | INDIC | 11 |
+| 5 | **7** | JACARTO DE HOUELLE | 22 |
+| Outsider | **4** | JEWELKIM | 18 |
 
 ## 🎫 Grilles jouées (5.00 €)
 
-- **Grille de base — Quinté+ (ordre)** (3.00 €) : 3 - 8 - 1 - 10 - 5
-- **Grille couverture — 4 bases + outsider** (2.00 €) : 3 - 8 - 1 - 10 - 7
+- **Grille de base — Quinté+ (ordre)** (3.00 €) : 15 - 5 - 9 - 11 - 7
+- **Grille couverture — 4 bases + outsider** (2.00 €) : 15 - 5 - 9 - 11 - 4
 
 ## 🧠 Analyse de l'IA
 
-> Une épreuve de vitesse sur le plateau d'Enghien où les concurrents de premier plan s'annoncent redoutables. Le grand favori est sans conteste le 3 KINGSLAYER PELLINI, qui enchaîne les victoires avec une facilité déconcertante et bénéficie de la drive de Christophe Martens. Pour lui barrer la route, le 8 JACOMO BELLO présente de solides garanties de régularité (1a2a2a) sous la poigne de Mathieu Mottier, malgré son numéro en dehors. Le 1 READLY LAVEC, lauréat pour sa rentrée, a franchi un palier et s'élancera avec de grosses ambitions. En embuscade, attention au 10 MAX OCCAGNES, qui retrouve Eric Raffin au sulky pour racheter ses derniers faux-pas, et au 5 JOUR DE FETE, préparé avec soin par Nicolas Bazire. Pour pimenter les rapports, le très régulier 7 GAMIN DES ISLES constitue une superbe base de jeu de couverture pour les places, tout comme le 14 SCHAMPUS, confié à Gabriele Gelormini, capable d'un coup d'éclat sur ce tracé.
+> Une épreuve intéressante sur l'hippodrome de Cabourg, un profil de piste qui exige de la maniabilité et de l'adresse de la part des drivers. Notre grand favori est le 15 JASMIN GEMA (cote 2.2), un modèle de régularité qui enchaîne les excellentes performances sous la drive de B. Rochard. Il constitue la base incontournable de ce Quinté. Pour lui répliquer, le 5 JOKER GES (7.8), confié à A. Abrivard, montre une forme étincelante et s'annonce redoutable. Le 9 JOCELYNE (9.8) se montre d'une régularité exemplaire à ce niveau et devrait logiquement accrocher une place dans le multi avec D. Thomain aux commandes. Attention au 11 INDIC (11) : disqualifié en dernier lieu, il retrouve Y. Lebourgeois, un driver redoutable à Cabourg ; s'il reste sage, sa chance théorique est de premier ordre. En bout de combinaison, le 7 JACARTO DE HOUELLE (22) peut refaire parler de lui sur sa vraie valeur, tandis que le 4 JEWELKIM (18) et le 2 JET DE BUSSET (19) complètent notre sélection comme de solides éléments de couverture pour pimenter les rapports.
 
 ---
 *Généré automatiquement par Gemini · Simulation à blanc. Jouer comporte des risques (18+).*

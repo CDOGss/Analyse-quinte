@@ -1,5 +1,86 @@
 [
   {
+    "id": "1783679397625",
+    "date": "2026-07-10",
+    "mock": false,
+    "hippodrome": "HIPPODROME DE CABOURG",
+    "reunion": "R1",
+    "course": "C4",
+    "discipline": "ATTELE",
+    "nb_partants": 16,
+    "base": [
+      {
+        "num": 15,
+        "nom": "JASMIN GEMA",
+        "cote": 2.2,
+        "driver": "B. ROCHARD"
+      },
+      {
+        "num": 5,
+        "nom": "JOKER GES",
+        "cote": 7.8,
+        "driver": "A. ABRIVARD"
+      },
+      {
+        "num": 9,
+        "nom": "JOCELYNE",
+        "cote": 9.8,
+        "driver": "D. THOMAIN"
+      },
+      {
+        "num": 11,
+        "nom": "INDIC",
+        "cote": 11,
+        "driver": "Y. LEBOURGEOIS"
+      },
+      {
+        "num": 7,
+        "nom": "JACARTO DE HOUELLE",
+        "cote": 22,
+        "driver": "A. COLLETTE"
+      }
+    ],
+    "spare": {
+      "num": 4,
+      "nom": "JEWELKIM",
+      "cote": 18,
+      "driver": "P.PH. PLOQUIN"
+    },
+    "grilles": [
+      {
+        "id": "A",
+        "type": "ordre",
+        "libelle": "Grille de base — Quinté+ (ordre)",
+        "chevaux": [
+          15,
+          5,
+          9,
+          11,
+          7
+        ],
+        "mise": 3
+      },
+      {
+        "id": "B",
+        "type": "couverture",
+        "libelle": "Grille couverture — 4 bases + outsider",
+        "chevaux": [
+          15,
+          5,
+          9,
+          11,
+          4
+        ],
+        "mise": 2
+      }
+    ],
+    "mise_totale": 5,
+    "analyse": "Une épreuve intéressante sur l'hippodrome de Cabourg, un profil de piste qui exige de la maniabilité et de l'adresse de la part des drivers. Notre grand favori est le 15 JASMIN GEMA (cote 2.2), un modèle de régularité qui enchaîne les excellentes performances sous la drive de B. Rochard. Il constitue la base incontournable de ce Quinté. Pour lui répliquer, le 5 JOKER GES (7.8), confié à A. Abrivard, montre une forme étincelante et s'annonce redoutable. Le 9 JOCELYNE (9.8) se montre d'une régularité exemplaire à ce niveau et devrait logiquement accrocher une place dans le multi avec D. Thomain aux commandes. Attention au 11 INDIC (11) : disqualifié en dernier lieu, il retrouve Y. Lebourgeois, un driver redoutable à Cabourg ; s'il reste sage, sa chance théorique est de premier ordre. En bout de combinaison, le 7 JACARTO DE HOUELLE (22) peut refaire parler de lui sur sa vraie valeur, tandis que le 4 JEWELKIM (18) et le 2 JET DE BUSSET (19) complètent notre sélection comme de solides éléments de couverture pour pimenter les rapports.",
+    "statut": "en_attente",
+    "arrivee": null,
+    "gain": null
+  },
+  {
     "id": "1783593329600",
     "date": "2026-07-09",
     "mock": false,
@@ -76,9 +157,43 @@
     ],
     "mise_totale": 5,
     "analyse": "Une épreuve de vitesse sur le plateau d'Enghien où les concurrents de premier plan s'annoncent redoutables. Le grand favori est sans conteste le 3 KINGSLAYER PELLINI, qui enchaîne les victoires avec une facilité déconcertante et bénéficie de la drive de Christophe Martens. Pour lui barrer la route, le 8 JACOMO BELLO présente de solides garanties de régularité (1a2a2a) sous la poigne de Mathieu Mottier, malgré son numéro en dehors. Le 1 READLY LAVEC, lauréat pour sa rentrée, a franchi un palier et s'élancera avec de grosses ambitions. En embuscade, attention au 10 MAX OCCAGNES, qui retrouve Eric Raffin au sulky pour racheter ses derniers faux-pas, et au 5 JOUR DE FETE, préparé avec soin par Nicolas Bazire. Pour pimenter les rapports, le très régulier 7 GAMIN DES ISLES constitue une superbe base de jeu de couverture pour les places, tout comme le 14 SCHAMPUS, confié à Gabriele Gelormini, capable d'un coup d'éclat sur ce tracé.",
-    "statut": "en_attente",
-    "arrivee": null,
-    "gain": null
+    "statut": "gagné",
+    "arrivee": [
+      3,
+      7,
+      8,
+      1,
+      5,
+      12,
+      9,
+      6,
+      11,
+      10,
+      4,
+      13
+    ],
+    "gain": 220,
+    "rapports": {
+      "ordre": 93600,
+      "desordre": null,
+      "bonus4": 220,
+      "bonus3": 220,
+      "estime": false
+    },
+    "resultats": [
+      {
+        "grille": "A",
+        "niveau": "perdu",
+        "rapport": 0,
+        "gain": 0
+      },
+      {
+        "grille": "B",
+        "niveau": "bonus4",
+        "rapport": 220,
+        "gain": 220
+      }
+    ]
   },
   {
     "id": "1783503426688",
