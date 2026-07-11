@@ -1,26 +1,26 @@
-# 🏇 Grille Quinté+ du Jour — vendredi 10 juillet 2026
+# 🏇 Grille Quinté+ du Jour — samedi 11 juillet 2026
 
-**HIPPODROME DE CABOURG** · R1C4 · ATTELE
+**HIPPODROME D'ENGHIEN SOISY** · R1C7 · ATTELE
 
 ## 🎯 Base pronostiquée (dans l'ordre)
 
 | Rang | N° | Cheval | Cote |
 |---|---|---|---|
-| 1 | **15** | JASMIN GEMA | 2.2 |
-| 2 | **5** | JOKER GES | 7.8 |
-| 3 | **9** | JOCELYNE | 9.8 |
-| 4 | **11** | INDIC | 11 |
-| 5 | **7** | JACARTO DE HOUELLE | 22 |
-| Outsider | **4** | JEWELKIM | 18 |
+| 1 | **14** | KNOW EVER | 2.2 |
+| 2 | **11** | KING D'HERMES | 6.1 |
+| 3 | **1** | KARCIMONT | 16 |
+| 4 | **9** | KING BABEL | 22 |
+| 5 | **13** | KIWI DE CONNEE | 12 |
+| Outsider | **10** | KARMA TEJY | 16 |
 
 ## 🎫 Grilles jouées (5.00 €)
 
-- **Grille de base — Quinté+ (ordre)** (3.00 €) : 15 - 5 - 9 - 11 - 7
-- **Grille couverture — 4 bases + outsider** (2.00 €) : 15 - 5 - 9 - 11 - 4
+- **Grille de base — Quinté+ (ordre)** (3.00 €) : 14 - 11 - 1 - 9 - 13
+- **Grille couverture — 4 bases + outsider** (2.00 €) : 14 - 11 - 1 - 9 - 10
 
 ## 🧠 Analyse de l'IA
 
-> Une épreuve intéressante sur l'hippodrome de Cabourg, un profil de piste qui exige de la maniabilité et de l'adresse de la part des drivers. Notre grand favori est le 15 JASMIN GEMA (cote 2.2), un modèle de régularité qui enchaîne les excellentes performances sous la drive de B. Rochard. Il constitue la base incontournable de ce Quinté. Pour lui répliquer, le 5 JOKER GES (7.8), confié à A. Abrivard, montre une forme étincelante et s'annonce redoutable. Le 9 JOCELYNE (9.8) se montre d'une régularité exemplaire à ce niveau et devrait logiquement accrocher une place dans le multi avec D. Thomain aux commandes. Attention au 11 INDIC (11) : disqualifié en dernier lieu, il retrouve Y. Lebourgeois, un driver redoutable à Cabourg ; s'il reste sage, sa chance théorique est de premier ordre. En bout de combinaison, le 7 JACARTO DE HOUELLE (22) peut refaire parler de lui sur sa vraie valeur, tandis que le 4 JEWELKIM (18) et le 2 JET DE BUSSET (19) complètent notre sélection comme de solides éléments de couverture pour pimenter les rapports.
+> Notre base incontournable est le 14 KNOW EVER, un pensionnaire de Sébastien Guarato qui enchaîne les excellentes performances (1a1a2a) et s'annonce redoutable sous la drive de G. Gelormini. Pour lui opposer une franche résistance, le 11 KING D'HERMES (M. Abrivard) présente de solides garanties à ce niveau. Le second atout Guarato, le 1 KARCIMONT, associé au très en forme Benjamin Rochard, offre un rapport qualité-cote particulièrement spéculatif au vu de sa régularité. Notre coup de folie est le 9 KING BABEL : sa musique récente est impressionnante (multiples victoires) et sa cote de 22/1 est anormalement haute, ce qui en fait un superbe outsider. Le 13 KIWI DE CONNEE, confié à l'habile Y. Lebourgeois, a les moyens de s'immiscer dans la bonne combinaison. En couverture, le régulier 10 KARMA TEJY et le délicat mais doué 8 KNOCK OUT complètent logiquement ce pronostic.
 
 ---
 *Généré automatiquement par Gemini · Simulation à blanc. Jouer comporte des risques (18+).*
