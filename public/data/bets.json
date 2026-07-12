@@ -1,5 +1,86 @@
 [
   {
+    "id": "1783847775919",
+    "date": "2026-07-12",
+    "mock": false,
+    "hippodrome": "HIPPODROME DE DEAUVILLE",
+    "reunion": "R1",
+    "course": "C3",
+    "discipline": "PLAT",
+    "nb_partants": 16,
+    "base": [
+      {
+        "num": 4,
+        "nom": "TANQUES",
+        "cote": 6.6,
+        "driver": "A.POUCHIN"
+      },
+      {
+        "num": 9,
+        "nom": "MARBELLESA",
+        "cote": 7.5,
+        "driver": "C.SOUMILLON"
+      },
+      {
+        "num": 13,
+        "nom": "NAY",
+        "cote": 7.1,
+        "driver": "M.BARZALONA"
+      },
+      {
+        "num": 10,
+        "nom": "ROZARION",
+        "cote": 8.3,
+        "driver": "A.HAMELIN"
+      },
+      {
+        "num": 5,
+        "nom": "ZAHARA",
+        "cote": 10,
+        "driver": "C.LECOEUVRE"
+      }
+    ],
+    "spare": {
+      "num": 7,
+      "nom": "MISTER GEORGE",
+      "cote": 14,
+      "driver": "M.GUYON"
+    },
+    "grilles": [
+      {
+        "id": "A",
+        "type": "ordre",
+        "libelle": "Grille de base — Quinté+ (ordre)",
+        "chevaux": [
+          4,
+          9,
+          13,
+          10,
+          5
+        ],
+        "mise": 3
+      },
+      {
+        "id": "B",
+        "type": "couverture",
+        "libelle": "Grille couverture — 4 bases + outsider",
+        "chevaux": [
+          4,
+          9,
+          13,
+          10,
+          7
+        ],
+        "mise": 2
+      }
+    ],
+    "mise_totale": 5,
+    "analyse": "Pour ce Quinté+ de plat sur l'hippodrome exigeant de Deauville, la régularité et l'aptitude au tracé seront déterminantes. En tête de notre sélection, le 4 TANQUES s'annonce comme une base incontournable : ce pensionnaire d'E. Libaud affiche une régularité exemplaire (4p1p3p2p) et bénéficie de la monte d'A. Pouchin. Nous lui opposons directement le 9 MARBELLESA, qui enchaîne les troisièmes places et se voit ici confiée à Christophe Soumillon pour franchir un palier. Le 13 NAY, entraîné par le redoutable Jérôme Reynier et monté par Mickaël Barzalona, présente de solides garanties de fraîcheur et de vitesse. Pour compléter notre base de jeu, le 10 ROZARION mérite un rachat complet après sa dernière sortie manquée, sa qualité intrinsèque restant indiscutable à ce poids. Le second atout de l'entraînement Delcher Sanchez, le 5 ZAHARA, reste sur une victoire convaincante et peut confirmer malgré la pénalisation. En couverture, le 7 MISTER GEORGE, piloté par l'incontournable Maxime Guyon, et le top-weight 1 MAI DIRE MAI, associé à Cristian Demuro, sont capables de pimenter les rapports à l'issue d'un bon parcours caché.",
+    "statut": "en_attente",
+    "arrivee": null,
+    "gain": null
+  },
+  {
     "id": "1783760366630",
     "date": "2026-07-11",
     "mock": false,
@@ -76,9 +157,41 @@
     ],
     "mise_totale": 5,
     "analyse": "Notre base incontournable est le 14 KNOW EVER, un pensionnaire de Sébastien Guarato qui enchaîne les excellentes performances (1a1a2a) et s'annonce redoutable sous la drive de G. Gelormini. Pour lui opposer une franche résistance, le 11 KING D'HERMES (M. Abrivard) présente de solides garanties à ce niveau. Le second atout Guarato, le 1 KARCIMONT, associé au très en forme Benjamin Rochard, offre un rapport qualité-cote particulièrement spéculatif au vu de sa régularité. Notre coup de folie est le 9 KING BABEL : sa musique récente est impressionnante (multiples victoires) et sa cote de 22/1 est anormalement haute, ce qui en fait un superbe outsider. Le 13 KIWI DE CONNEE, confié à l'habile Y. Lebourgeois, a les moyens de s'immiscer dans la bonne combinaison. En couverture, le régulier 10 KARMA TEJY et le délicat mais doué 8 KNOCK OUT complètent logiquement ce pronostic.",
-    "statut": "en_attente",
-    "arrivee": null,
-    "gain": null
+    "statut": "perdu",
+    "arrivee": [
+      11,
+      6,
+      9,
+      4,
+      7,
+      8,
+      12,
+      13,
+      5,
+      3
+    ],
+    "gain": 0,
+    "rapports": {
+      "ordre": 6440460,
+      "desordre": null,
+      "bonus4": 2540,
+      "bonus3": 1760,
+      "estime": false
+    },
+    "resultats": [
+      {
+        "grille": "A",
+        "niveau": "perdu",
+        "rapport": 0,
+        "gain": 0
+      },
+      {
+        "grille": "B",
+        "niveau": "perdu",
+        "rapport": 0,
+        "gain": 0
+      }
+    ]
   },
   {
     "id": "1783679397625",
