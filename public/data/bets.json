@@ -1,5 +1,86 @@
 [
   {
+    "id": "1783938924929",
+    "date": "2026-07-13",
+    "mock": false,
+    "hippodrome": "HIPPODROME DE DIEPPE",
+    "reunion": "R1",
+    "course": "C8",
+    "discipline": "PLAT",
+    "nb_partants": 16,
+    "base": [
+      {
+        "num": 4,
+        "nom": "SCHUMAN",
+        "cote": 5.3,
+        "driver": "A.MADAMET"
+      },
+      {
+        "num": 1,
+        "nom": "LESSLEPASSER",
+        "cote": 8.2,
+        "driver": "PC.BOUDOT"
+      },
+      {
+        "num": 8,
+        "nom": "GRAND SCOOP",
+        "cote": 8.9,
+        "driver": "A.POUCHIN"
+      },
+      {
+        "num": 16,
+        "nom": "WILD WEST",
+        "cote": 10,
+        "driver": "J.CLAUDIC"
+      },
+      {
+        "num": 5,
+        "nom": "OZAN",
+        "cote": 9.9,
+        "driver": "A.LEMAITRE"
+      }
+    ],
+    "spare": {
+      "num": 9,
+      "nom": "NATIONAL SERVICE",
+      "cote": 10,
+      "driver": "M.GRANDIN"
+    },
+    "grilles": [
+      {
+        "id": "A",
+        "type": "ordre",
+        "libelle": "Grille de base — Quinté+ (ordre)",
+        "chevaux": [
+          4,
+          1,
+          8,
+          16,
+          5
+        ],
+        "mise": 3
+      },
+      {
+        "id": "B",
+        "type": "couverture",
+        "libelle": "Grille couverture — 4 bases + outsider",
+        "chevaux": [
+          4,
+          1,
+          8,
+          16,
+          9
+        ],
+        "mise": 2
+      }
+    ],
+    "mise_totale": 5,
+    "analyse": "En tant qu'expert du Quinté+, ma sélection s'appuie sur une analyse fine des forces en présence à Dieppe. En base, le 4 SCHUMAN s'impose logiquement : favori des parieurs (5.3), il affiche un regain de forme très net (3p) et trouve ici un engagement de choix. Le 1 LESSLEPASSER est un solide point d'appui ; la récente actualité judiciaire blanchissant son jockey vedette P-C. Boudot l'associe à un pilote déterminé à briller pour son retour au premier plan. Le 8 GRAND SCOOP, très régulier à ce niveau sous la monte d'A. Pouchin, complètera notre trio majeur. En bas de tableau, attention au 16 WILD WEST, qui reste sur un brillant succès (1p) et bénéficie d'une situation de poids très avantageuse en bas de tableau. Le 5 OZAN complètera notre base à une cote spéculative intéressante sous les 10/1. Pour nos couvertures, le 9 NATIONAL SERVICE (estimé par J. Reynier) et le 7 GLANWORTH feront d'excellents régulateurs en cas de défaillance des favoris.",
+    "statut": "en_attente",
+    "arrivee": null,
+    "gain": null
+  },
+  {
     "id": "1783847775919",
     "date": "2026-07-12",
     "mock": false,
@@ -76,9 +157,46 @@
     ],
     "mise_totale": 5,
     "analyse": "Pour ce Quinté+ de plat sur l'hippodrome exigeant de Deauville, la régularité et l'aptitude au tracé seront déterminantes. En tête de notre sélection, le 4 TANQUES s'annonce comme une base incontournable : ce pensionnaire d'E. Libaud affiche une régularité exemplaire (4p1p3p2p) et bénéficie de la monte d'A. Pouchin. Nous lui opposons directement le 9 MARBELLESA, qui enchaîne les troisièmes places et se voit ici confiée à Christophe Soumillon pour franchir un palier. Le 13 NAY, entraîné par le redoutable Jérôme Reynier et monté par Mickaël Barzalona, présente de solides garanties de fraîcheur et de vitesse. Pour compléter notre base de jeu, le 10 ROZARION mérite un rachat complet après sa dernière sortie manquée, sa qualité intrinsèque restant indiscutable à ce poids. Le second atout de l'entraînement Delcher Sanchez, le 5 ZAHARA, reste sur une victoire convaincante et peut confirmer malgré la pénalisation. En couverture, le 7 MISTER GEORGE, piloté par l'incontournable Maxime Guyon, et le top-weight 1 MAI DIRE MAI, associé à Cristian Demuro, sont capables de pimenter les rapports à l'issue d'un bon parcours caché.",
-    "statut": "en_attente",
-    "arrivee": null,
-    "gain": null
+    "statut": "gagné",
+    "arrivee": [
+      7,
+      13,
+      9,
+      12,
+      4,
+      15,
+      16,
+      1,
+      6,
+      11,
+      5,
+      8,
+      3,
+      14,
+      2
+    ],
+    "gain": 300,
+    "rapports": {
+      "ordre": 5129840,
+      "desordre": null,
+      "bonus4": 360,
+      "bonus3": 300,
+      "estime": false
+    },
+    "resultats": [
+      {
+        "grille": "A",
+        "niveau": "perdu",
+        "rapport": 0,
+        "gain": 0
+      },
+      {
+        "grille": "B",
+        "niveau": "bonus3",
+        "rapport": 300,
+        "gain": 300
+      }
+    ]
   },
   {
     "id": "1783760366630",
