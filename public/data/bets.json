@@ -1,5 +1,86 @@
 [
   {
+    "id": "1784020645775",
+    "date": "2026-07-14",
+    "mock": false,
+    "hippodrome": "HIPPODROME DE PARISLONGCHAMP",
+    "reunion": "R1",
+    "course": "C3",
+    "discipline": "PLAT",
+    "nb_partants": 15,
+    "base": [
+      {
+        "num": 4,
+        "nom": "GERARD TER BORCH",
+        "cote": 4.4,
+        "driver": "A.HAMELIN"
+      },
+      {
+        "num": 1,
+        "nom": "ANSSIO",
+        "cote": 8.3,
+        "driver": "C.LECOEUVRE"
+      },
+      {
+        "num": 2,
+        "nom": "CARAMELITO",
+        "cote": 9.2,
+        "driver": "T.BACHELOT"
+      },
+      {
+        "num": 5,
+        "nom": "CLEOD'OR",
+        "cote": 11,
+        "driver": "C.SOUMILLON"
+      },
+      {
+        "num": 3,
+        "nom": "ALMIRO",
+        "cote": 12,
+        "driver": "PC.BOUDOT"
+      }
+    ],
+    "spare": {
+      "num": 7,
+      "nom": "TOP TOWN TELL TALE",
+      "cote": 16,
+      "driver": "M.GUYON"
+    },
+    "grilles": [
+      {
+        "id": "A",
+        "type": "ordre",
+        "libelle": "Grille de base — Quinté+ (ordre)",
+        "chevaux": [
+          4,
+          1,
+          2,
+          5,
+          3
+        ],
+        "mise": 3
+      },
+      {
+        "id": "B",
+        "type": "couverture",
+        "libelle": "Grille couverture — 4 bases + outsider",
+        "chevaux": [
+          4,
+          1,
+          2,
+          5,
+          7
+        ],
+        "mise": 2
+      }
+    ],
+    "mise_totale": 5,
+    "analyse": "Pour ce Quinté+ disputé sur l'hippodrome de ParisLongchamp, la logique et la forme récente guident notre sélection. GERARD TER BORCH (4) s'impose comme la base absolue de ce pronostic : proposé à la cote de confiance de 4.4 et venant de signer une superbe 2e place, l'élève de Mikel Delzangles est le cheval à battre. Derrière lui, ANSSIO (1) affiche une régularité de métronome (2p3p5p) et doit surmonter son poids, mais reste incontournable. CARAMELITO (2), associé à Théo Bachelot, a retrouvé la plénitude de ses moyens comme en témoigne son récent premier accessit. CLEOD'OR (5) bénéficie de la monte de Christophe Soumillon, un atout majeur sur ce tracé exigeant. Le fait marquant de l'actualité est l'annulation du renvoi aux assises de Pierre-Charles Boudot ; libéré d'un poids psychologique majeur, le jockey star sera particulièrement motivé en selle sur ALMIRO (3), un outsider très séduisant capable de refaire surface à belle cote. Pour compléter notre sélection, TOP TOWN TELL TALE (7), confié à Maxime Guyon après sa récente victoire, et HERMES WOOD (6), d'une louable régularité, apporteront une excellente couverture.",
+    "statut": "en_attente",
+    "arrivee": null,
+    "gain": null
+  },
+  {
     "id": "1783938924929",
     "date": "2026-07-13",
     "mock": false,
@@ -76,9 +157,46 @@
     ],
     "mise_totale": 5,
     "analyse": "En tant qu'expert du Quinté+, ma sélection s'appuie sur une analyse fine des forces en présence à Dieppe. En base, le 4 SCHUMAN s'impose logiquement : favori des parieurs (5.3), il affiche un regain de forme très net (3p) et trouve ici un engagement de choix. Le 1 LESSLEPASSER est un solide point d'appui ; la récente actualité judiciaire blanchissant son jockey vedette P-C. Boudot l'associe à un pilote déterminé à briller pour son retour au premier plan. Le 8 GRAND SCOOP, très régulier à ce niveau sous la monte d'A. Pouchin, complètera notre trio majeur. En bas de tableau, attention au 16 WILD WEST, qui reste sur un brillant succès (1p) et bénéficie d'une situation de poids très avantageuse en bas de tableau. Le 5 OZAN complètera notre base à une cote spéculative intéressante sous les 10/1. Pour nos couvertures, le 9 NATIONAL SERVICE (estimé par J. Reynier) et le 7 GLANWORTH feront d'excellents régulateurs en cas de défaillance des favoris.",
-    "statut": "en_attente",
-    "arrivee": null,
-    "gain": null
+    "statut": "gagné",
+    "arrivee": [
+      5,
+      8,
+      1,
+      16,
+      11,
+      7,
+      6,
+      4,
+      12,
+      13,
+      9,
+      14,
+      15,
+      3,
+      10
+    ],
+    "gain": 660,
+    "rapports": {
+      "ordre": 1028000,
+      "desordre": null,
+      "bonus4": 440,
+      "bonus3": 340,
+      "estime": false
+    },
+    "resultats": [
+      {
+        "grille": "A",
+        "niveau": "bonus4",
+        "rapport": 440,
+        "gain": 660
+      },
+      {
+        "grille": "B",
+        "niveau": "perdu",
+        "rapport": 0,
+        "gain": 0
+      }
+    ]
   },
   {
     "id": "1783847775919",
