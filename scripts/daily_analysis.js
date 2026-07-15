@@ -217,7 +217,9 @@ function construireGrilles(classement, participants) {
 
 /**
  * Score un ticket Quinté+ (5 chevaux ordonnés) contre l'arrivée réelle.
- * Cascade PMU : ordre > désordre > bonus 4 > bonus 3. Rapports exprimés pour 2 €.
+ * Cascade PMU : ordre > désordre > bonus 4 (les 4 premiers dans la grille)
+ * > bonus 4sur5 (4 des 5 chevaux dans les 5 premiers) > bonus 3.
+ * Les rapports sont en euros pour la mise de base de 2 €.
  */
 function scoreGrille(grille, arrivee, rapports) {
   const top5 = arrivee.slice(0, 5);
@@ -228,10 +230,11 @@ function scoreGrille(grille, arrivee, rapports) {
   const setG = new Set(g);
   const factor = grille.mise / 2; // les rapports PMU sont pour une base de 2 €
 
+  const hitsTop5 = g.filter((n) => setTop5.has(n)).length;
   const exactOrder = g.length === 5 && top5.length === 5 && g.every((n, i) => n === top5[i]);
-  const allFive =
-    g.length === 5 && setTop5.size === 5 && [...setTop5].every((n) => setG.has(n));
+  const allFive = g.length === 5 && top5.length === 5 && hitsTop5 === 5;
   const has4 = first4.length === 4 && first4.every((n) => setG.has(n));
+  const has4sur5 = top5.length === 5 && hitsTop5 >= 4;
   const has3 = first3.length === 3 && first3.every((n) => setG.has(n));
 
   let niveau = 'perdu';
@@ -239,20 +242,26 @@ function scoreGrille(grille, arrivee, rapports) {
   if (exactOrder) [niveau, rapport] = ['ordre', rapports.ordre || 0];
   else if (allFive) [niveau, rapport] = ['desordre', rapports.desordre || 0];
   else if (has4) [niveau, rapport] = ['bonus4', rapports.bonus4 || 0];
+  else if (has4sur5) [niveau, rapport] = ['bonus4sur5', rapports.bonus4sur5 || 0];
   else if (has3) [niveau, rapport] = ['bonus3', rapports.bonus3 || 0];
 
   return { grille: grille.id, niveau, rapport, gain: round2((rapport || 0) * factor) };
 }
 
-/** Estimation de rapports quand les rapports officiels sont indisponibles (flag estimé). */
+/**
+ * Estimation de rapports quand les rapports officiels sont indisponibles
+ * (flag "estimé" affiché dans l'interface). Ordres de grandeur réalistes du
+ * Quinté+, en euros pour 2 € de mise de base.
+ */
 function estimerRapports(baseParticipants) {
   const cotes = baseParticipants.map((p) => p.cote || 12);
   const prod = cotes.reduce((a, c) => a * c, 1);
   return {
-    ordre: round2(Math.min(prod * 0.8, 500000)),
-    desordre: round2(Math.min(prod / 6, 40000)),
-    bonus4: 25,
-    bonus3: 4,
+    ordre: round2(Math.min(prod * 2, 100000)),
+    desordre: round2(Math.min(prod / 15, 2000)),
+    bonus4: 15,
+    bonus4sur5: 6,
+    bonus3: 3,
     estime: true,
   };
 }

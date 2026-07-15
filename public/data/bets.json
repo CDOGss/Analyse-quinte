@@ -175,20 +175,21 @@
       3,
       10
     ],
-    "gain": 660,
+    "gain": 6.6,
     "rapports": {
-      "ordre": 1028000,
-      "desordre": null,
-      "bonus4": 440,
-      "bonus3": 340,
+      "ordre": 10280,
+      "desordre": 129,
+      "bonus4sur5": 4.4,
+      "bonus4": 4.4,
+      "bonus3": 3.4,
       "estime": false
     },
     "resultats": [
       {
         "grille": "A",
         "niveau": "bonus4",
-        "rapport": 440,
-        "gain": 660
+        "rapport": 4.4,
+        "gain": 6.6
       },
       {
         "grille": "B",
@@ -293,12 +294,13 @@
       14,
       2
     ],
-    "gain": 300,
+    "gain": 3.6,
     "rapports": {
-      "ordre": 5129840,
-      "desordre": null,
-      "bonus4": 360,
-      "bonus3": 300,
+      "ordre": 51298.4,
+      "desordre": 57,
+      "bonus4sur5": 3.6,
+      "bonus4": 3.6,
+      "bonus3": 3,
       "estime": false
     },
     "resultats": [
@@ -310,9 +312,9 @@
       },
       {
         "grille": "B",
-        "niveau": "bonus3",
-        "rapport": 300,
-        "gain": 300
+        "niveau": "bonus4sur5",
+        "rapport": 3.6,
+        "gain": 3.6
       }
     ]
   },
@@ -408,10 +410,11 @@
     ],
     "gain": 0,
     "rapports": {
-      "ordre": 6440460,
-      "desordre": null,
-      "bonus4": 2540,
-      "bonus3": 1760,
+      "ordre": 64404.6,
+      "desordre": 934.8,
+      "bonus4sur5": 25.4,
+      "bonus4": 25.4,
+      "bonus3": 17.6,
       "estime": false
     },
     "resultats": [
@@ -523,26 +526,27 @@
       10,
       13
     ],
-    "gain": 640,
+    "gain": 6.4,
     "rapports": {
-      "ordre": null,
-      "desordre": null,
-      "bonus4": 280,
-      "bonus3": 220,
+      "ordre": 0,
+      "desordre": 557.8,
+      "bonus4sur5": 2.8,
+      "bonus4": 2.8,
+      "bonus3": 2.2,
       "estime": false
     },
     "resultats": [
       {
         "grille": "A",
         "niveau": "bonus4",
-        "rapport": 280,
-        "gain": 420
+        "rapport": 2.8,
+        "gain": 4.2
       },
       {
         "grille": "B",
         "niveau": "bonus3",
-        "rapport": 220,
-        "gain": 220
+        "rapport": 2.2,
+        "gain": 2.2
       }
     ]
   },
@@ -638,26 +642,27 @@
       4,
       13
     ],
-    "gain": 220,
+    "gain": 5.5,
     "rapports": {
-      "ordre": 93600,
-      "desordre": null,
-      "bonus4": 220,
-      "bonus3": 220,
+      "ordre": 936,
+      "desordre": 8.6,
+      "bonus4sur5": 2.2,
+      "bonus4": 2.2,
+      "bonus3": 2.2,
       "estime": false
     },
     "resultats": [
       {
         "grille": "A",
-        "niveau": "perdu",
-        "rapport": 0,
-        "gain": 0
+        "niveau": "bonus4sur5",
+        "rapport": 2.2,
+        "gain": 3.3
       },
       {
         "grille": "B",
         "niveau": "bonus4",
-        "rapport": 220,
-        "gain": 220
+        "rapport": 2.2,
+        "gain": 2.2
       }
     ]
   },
@@ -755,12 +760,13 @@
       3,
       6
     ],
-    "gain": 300,
+    "gain": 3,
     "rapports": {
-      "ordre": 185740,
-      "desordre": null,
-      "bonus4": 360,
-      "bonus3": 300,
+      "ordre": 1857.4,
+      "desordre": 27.4,
+      "bonus4sur5": 3.6,
+      "bonus4": 3.6,
+      "bonus3": 3,
       "estime": false
     },
     "resultats": [
@@ -773,8 +779,8 @@
       {
         "grille": "B",
         "niveau": "bonus3",
-        "rapport": 300,
-        "gain": 300
+        "rapport": 3,
+        "gain": 3
       }
     ]
   },
@@ -875,10 +881,11 @@
     ],
     "gain": 0,
     "rapports": {
-      "ordre": null,
-      "desordre": null,
-      "bonus4": 1180,
-      "bonus3": 860,
+      "ordre": 0,
+      "desordre": 1530.2,
+      "bonus4sur5": 11.8,
+      "bonus4": 11.8,
+      "bonus3": 8.6,
       "estime": false
     },
     "resultats": [
@@ -988,10 +995,11 @@
     ],
     "gain": 0,
     "rapports": {
-      "ordre": 2528020,
-      "desordre": null,
-      "bonus4": 580,
-      "bonus3": 460,
+      "ordre": 25280.2,
+      "desordre": 217.4,
+      "bonus4sur5": 5.8,
+      "bonus4": 5.8,
+      "bonus3": 4.6,
       "estime": false
     },
     "resultats": [
@@ -1107,10 +1115,11 @@
     ],
     "gain": 0,
     "rapports": {
-      "ordre": 14144240,
-      "desordre": null,
-      "bonus4": 780,
-      "bonus3": 640,
+      "ordre": 141442.4,
+      "desordre": 374,
+      "bonus4sur5": 7.8,
+      "bonus4": 7.8,
+      "bonus3": 6.4,
       "estime": false
     },
     "resultats": [
@@ -1224,10 +1233,11 @@
     ],
     "gain": 0,
     "rapports": {
-      "ordre": 5661120,
-      "desordre": null,
-      "bonus4": 1120,
-      "bonus3": 540,
+      "ordre": 56611.2,
+      "desordre": 818.6,
+      "bonus4sur5": 11.2,
+      "bonus4": 11.2,
+      "bonus3": 5.4,
       "estime": false
     },
     "resultats": [
@@ -1339,10 +1349,11 @@
     ],
     "gain": 0,
     "rapports": {
-      "ordre": null,
-      "desordre": null,
-      "bonus4": 8360,
-      "bonus3": 5420,
+      "ordre": 0,
+      "desordre": 9124.8,
+      "bonus4sur5": 83.6,
+      "bonus4": 83.6,
+      "bonus3": 54.2,
       "estime": false
     },
     "resultats": [
@@ -1457,10 +1468,11 @@
     ],
     "gain": 0,
     "rapports": {
-      "ordre": null,
-      "desordre": null,
-      "bonus4": 5020,
-      "bonus3": 3360,
+      "ordre": 0,
+      "desordre": 19370.2,
+      "bonus4sur5": 50.2,
+      "bonus4": 50.2,
+      "bonus3": 33.6,
       "estime": false
     },
     "resultats": [

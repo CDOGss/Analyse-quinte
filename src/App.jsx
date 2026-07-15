@@ -18,6 +18,7 @@ const NIVEAU_LABEL = {
   ordre: '🏆 Quinté dans l’ordre',
   desordre: '✅ Quinté dans le désordre',
   bonus4: '🎯 Bonus 4',
+  bonus4sur5: '🎯 Bonus 4sur5',
   bonus3: '🎯 Bonus 3',
   perdu: '— Perdu',
 };
@@ -32,7 +33,8 @@ const ANALYSIS_STEPS = [
 ];
 
 function HorseRow({ horse, rank, isSpare, arrivee }) {
-  const inArrivee = arrivee && arrivee.includes(horse.num);
+  // 🟢 = le cheval a terminé dans les 5 premiers (l'arrivée stockée contient tout le champ).
+  const inArrivee = arrivee && arrivee.slice(0, 5).includes(horse.num);
   return (
     <div className={`horse-row ${isSpare ? 'spare' : ''}`}>
       <span className="horse-num">{horse.num}</span>

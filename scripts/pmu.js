@@ -142,9 +142,21 @@ export function extractArrivee(courseObj) {
   return null;
 }
 
+/** Supprime les accents et met en majuscules ("Désordre" -> "DESORDRE"). */
+function normLabel(s) {
+  return String(s || '')
+    .normalize('NFD')
+    .replace(/[̀-ͯ]/g, '')
+    .toUpperCase();
+}
+
 /**
- * Récupère les rapports officiels du Quinté+ (ordre, désordre, bonus 4, bonus 3)
- * exprimés POUR UNE MISE DE BASE DE 2 €. Renvoie null si indisponible.
+ * Récupère les rapports officiels du Quinté+ : ordre, désordre, bonus 4,
+ * bonus 4sur5, bonus 3 — en EUROS pour la mise de base de 2 €.
+ *
+ * ⚠️ Unités API : les champs `dividende` / `dividendePourUneMiseDeBase` /
+ * `dividendePourUnEuro` sont exprimés en CENTIMES (ex: 300 = 3,00 €).
+ * Vérifié sur les données réelles (dividendeUnite: "PourUneMiseDeBase").
  */
 export async function fetchRapportsQuinte(pmuDate, numReunion, numCourse, clientVersion) {
   const versions = clientVersion ? [clientVersion, ...CLIENT_VERSIONS] : CLIENT_VERSIONS;
@@ -156,24 +168,34 @@ export async function fetchRapportsQuinte(pmuDate, numReunion, numCourse, client
       const quinte = paris.find((p) => /QUINTE/i.test(JSON.stringify(p.typePari || p.pari || p)));
       if (!quinte) continue;
       const rapports = quinte.rapports || quinte.rapportsDefinitifs || [];
-      const pick = (regex) => {
-        const r = rapports.find((x) => regex.test(x.libelle || x.typeRapport || ''));
-        return r ? r.dividendePourUnEuro || r.dividende || r.rapport || null : null;
+
+      // Valeur en euros pour la mise de base (2 €) : centimes -> euros.
+      const euros = (r) => {
+        const centimes =
+          r.dividendePourUneMiseDeBase ??
+          r.dividende ??
+          (r.dividendePourUnEuro != null ? r.dividendePourUnEuro * 2 : null);
+        return centimes != null ? centimes / 100 : null;
       };
-      // Les dividendes PMU sont souvent "pour 1 €" -> on ramène à la base 2 €.
-      const perEuro = {
-        ordre: pick(/ORDRE/i),
-        desordre: pick(/DESORDRE/i),
-        bonus4: pick(/BONUS.?4|QUARTE|BONUS_4/i),
-        bonus3: pick(/BONUS.?3|BONUS_3/i),
+      const pick = (test) => {
+        const r = rapports.find((x) => test(normLabel(x.libelle || x.typeRapport)));
+        return r ? euros(r) : null;
       };
-      return {
-        ordre: perEuro.ordre ? perEuro.ordre * 2 : null,
-        desordre: perEuro.desordre ? perEuro.desordre * 2 : null,
-        bonus4: perEuro.bonus4 ? perEuro.bonus4 * 2 : null,
-        bonus3: perEuro.bonus3 ? perEuro.bonus3 * 2 : null,
+
+      // Attention aux libellés : "Ordre" est une sous-chaîne de "Désordre",
+      // et le désordre s'écrit avec un accent ("Désordre") -> matching normalisé.
+      const result = {
+        ordre: pick((l) => l.includes('ORDRE') && !l.includes('DESORDRE')),
+        desordre: pick((l) => l.includes('DESORDRE')),
+        bonus4sur5: pick((l) => /BONUS.?4.?SUR.?5/.test(l)),
+        bonus4: pick((l) => /BONUS.?4/.test(l) && !/SUR/.test(l)),
+        bonus3: pick((l) => /BONUS.?3/.test(l)),
         estime: false,
       };
+      // Le palier "Bonus 4" simple n'existe pas sur toutes les courses :
+      // on retombe sur le Bonus 4sur5 (avoir les 4 premiers implique 4 sur 5).
+      if (result.bonus4 == null) result.bonus4 = result.bonus4sur5;
+      return result;
     } catch {
       // version suivante
     }

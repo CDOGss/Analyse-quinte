@@ -146,7 +146,7 @@ p { margin: 0; }
 .arrivee-num.hit { background: rgba(0,230,118,.18); color: var(--success); border-color: rgba(0,230,118,.4); }
 .niveau-tag { font-weight: 700; }
 .niveau-ordre, .niveau-desordre { color: var(--success); }
-.niveau-bonus4, .niveau-bonus3 { color: var(--warning); }
+.niveau-bonus4, .niveau-bonus4sur5, .niveau-bonus3 { color: var(--warning); }
 .niveau-perdu { color: var(--danger); }
 
 /* ---------- Analysis ---------- */
