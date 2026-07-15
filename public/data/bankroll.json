@@ -1,82 +1,82 @@
 {
-  "initial": 100,
-  "current": 60.1,
+  "initial": 100000,
+  "current": 99960.1,
   "history": [
     {
       "date": "2026-07-02",
-      "amount": 100
+      "amount": 100000
     },
     {
       "date": "2026-07-02",
-      "amount": 95
+      "amount": 99995
     },
     {
       "date": "2026-07-03",
-      "amount": 90
+      "amount": 99990
     },
     {
       "date": "2026-07-04",
-      "amount": 85
+      "amount": 99985
     },
     {
       "date": "2026-07-05",
-      "amount": 80
+      "amount": 99980
     },
     {
       "date": "2026-07-06",
-      "amount": 75
+      "amount": 99975
     },
     {
       "date": "2026-07-07",
-      "amount": 70
+      "amount": 99970
     },
     {
       "date": "2026-07-08",
-      "amount": 65
+      "amount": 99965
     },
     {
       "date": "2026-07-09",
-      "amount": 68
+      "amount": 99968
     },
     {
       "date": "2026-07-09",
-      "amount": 63
+      "amount": 99963
     },
     {
       "date": "2026-07-10",
-      "amount": 68.5
+      "amount": 99968.5
     },
     {
       "date": "2026-07-10",
-      "amount": 63.5
+      "amount": 99963.5
     },
     {
       "date": "2026-07-11",
-      "amount": 69.9
+      "amount": 99969.9
     },
     {
       "date": "2026-07-11",
-      "amount": 64.9
+      "amount": 99964.9
     },
     {
       "date": "2026-07-12",
-      "amount": 59.9
+      "amount": 99959.9
     },
     {
       "date": "2026-07-13",
-      "amount": 63.5
+      "amount": 99963.5
     },
     {
       "date": "2026-07-13",
-      "amount": 58.5
+      "amount": 99958.5
     },
     {
       "date": "2026-07-14",
-      "amount": 65.1
+      "amount": 99965.1
     },
     {
       "date": "2026-07-14",
-      "amount": 60.1
+      "amount": 99960.1
     }
   ]
 }
