@@ -1,26 +1,26 @@
-# 🏇 Grille Quinté+ du Jour — mercredi 15 juillet 2026
+# 🏇 Grille Quinté+ du Jour — jeudi 16 juillet 2026
 
-**HIPPODROME DE LISIEUX** · R1C8 · ATTELE
+**HIPPODROME DE COMPIEGNE** · R1C8 · PLAT
 
 ## 🎯 Base pronostiquée (dans l'ordre)
 
 | Rang | N° | Cheval | Cote |
 |---|---|---|---|
-| 1 | **1** | JAINA D'ESSARTS | 2.4 |
-| 2 | **7** | JADE D'ERABLE | 6.7 |
-| 3 | **11** | JURELLA DE PALM | 9.8 |
-| 4 | **8** | JAZZ SESSION | 14 |
-| 5 | **13** | JOCASTE DAIRPET | 19 |
-| Outsider | **5** | JADE | 11 |
+| 1 | **5** | THE SHADOW | 2.9 |
+| 2 | **14** | DARK ZEL | 14 |
+| 3 | **2** | OMICRONE | 8.3 |
+| 4 | **6** | MY QUEEN | 26 |
+| 5 | **3** | ZAWAN | 12 |
+| Outsider | **16** | TANTOMILE | 19 |
 
 ## 🎫 Grilles jouées (5.00 €)
 
-- **Grille de base — Quinté+ (ordre)** (3.00 €) : 1 - 7 - 11 - 8 - 13
-- **Grille couverture — 4 bases + outsider** (2.00 €) : 1 - 7 - 11 - 8 - 5
+- **Grille de base — Quinté+ (ordre)** (3.00 €) : 5 - 14 - 2 - 6 - 3
+- **Grille couverture — 4 bases + outsider** (2.00 €) : 5 - 14 - 2 - 6 - 16
 
 ## 🧠 Analyse de l'IA
 
-> En tant qu'expert du Quinté+, ma base s'appuie incontestablement sur le 1 JAINA D'ESSARTS (cote de 2.4), qui aligne les performances de choix (3a1a1a3a) et bénéficie de la drive de F. Lagadeuc. Pour lui barrer la route, le 7 JADE D'ERABLE, associé à David Thomain, offre de solides garanties de régularité à 6.7. Attention également au 11 JURELLA DE PALM, capable du meilleur sous la poigne de Benjamin Rochard si elle reste sage (tout ou rien). Le 8 JAZZ SESSION est un modèle de constance qui mérite un large crédit pour les places à une cote spéculative de 14. Enfin, le 13 JOCASTE DAIRPET, confié au redoutable Alexandre Abrivard, complète ma combinaison de base. Pour pimenter les rapports en couverture, le 5 JADE (drivé par le local Yoann Lebourgeois) et le 4 JOLIE QUEEN sont des options très crédibles. Les actualités hippiques nationales (Jockey Club, dossiers judiciaires) n'ont aucune influence sur cette épreuve de Lisieux où la forme récente et l'aptitude au tracé provincial priment.
+> Le Prix du Château de Pierrefonds met en lumière l'armada de l'entraîneur Nicolas Caullery, qui aligne pas moins de six partants. Notre favori logique est THE SHADOW (5), un modèle de régularité associé à Christophe Soumillon, proposé à une cote de confiance (2.9). Pour lui opposer une résistance, nous retenons un autre atout de l'écurie Caullery, DARK ZEL (14), très compétitive dans cette catégorie et régulière. OMICRONE (2) suscite de la méfiance : malgré une musique récente peu flatteuse, sa cote basse (8.3) indique un rachat imminent et une confiance appuyée des parieurs. MY QUEEN (6) est la superbe opportunité spéculative de ce Quinté+, affichant d'excellentes performances (3p6p3p) pour une cote attractive de 26. ZAWAN (3), mené par l'habile Cristian Demuro, complète notre base de sélection. En couverture, TANTOMILE (16), avec la décharge de Marie Velon, et ZASYMOKA (9), sur sa bonne dynamique de places, sont d'excellents choix pour pimenter les rapports.
 
 ---
 *Généré automatiquement par Gemini · Simulation à blanc. Jouer comporte des risques (18+).*
