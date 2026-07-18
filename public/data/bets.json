@@ -1,5 +1,86 @@
 [
   {
+    "id": "1784367893551",
+    "date": "2026-07-18",
+    "mock": false,
+    "hippodrome": "HIPPODROME D'ENGHIEN SOISY",
+    "reunion": "R1",
+    "course": "C4",
+    "discipline": "ATTELE",
+    "nb_partants": 14,
+    "base": [
+      {
+        "num": 13,
+        "nom": "DAYAK (ITY)",
+        "cote": 4,
+        "driver": "B. ROCHARD"
+      },
+      {
+        "num": 12,
+        "nom": "IDEAL DE CASTELLE",
+        "cote": 5.6,
+        "driver": "E. RAFFIN"
+      },
+      {
+        "num": 6,
+        "nom": "JAIN MAB",
+        "cote": 6.1,
+        "driver": "A. BARRIER"
+      },
+      {
+        "num": 1,
+        "nom": "IMAGE D'ATALANTE",
+        "cote": 9.8,
+        "driver": "F. NIVARD"
+      },
+      {
+        "num": 5,
+        "nom": "JALIMEDE",
+        "cote": 10,
+        "driver": "Y. LEBOURGEOIS"
+      }
+    ],
+    "spare": {
+      "num": 2,
+      "nom": "IMHOTEP FROMENTRO",
+      "cote": 12,
+      "driver": "M. ABRIVARD"
+    },
+    "grilles": [
+      {
+        "id": "A",
+        "type": "ordre",
+        "libelle": "Grille de base — Quinté+ (ordre)",
+        "chevaux": [
+          13,
+          12,
+          6,
+          1,
+          5
+        ],
+        "mise": 3
+      },
+      {
+        "id": "B",
+        "type": "couverture",
+        "libelle": "Grille couverture — 4 bases + outsider",
+        "chevaux": [
+          13,
+          12,
+          6,
+          1,
+          2
+        ],
+        "mise": 2
+      }
+    ],
+    "mise_totale": 5,
+    "analyse": "Pour ce Quinté+ à Enghien, la base semble solide avec le favori logiqe DAYAK (13), associé à un Benjamin Rochard en grande forme et venant de s'imposer avec la manière. L'écurie d'Arnaud Buisson est d'ailleurs particulièrement bien armée puisqu'elle présente aussi JAIN MAB (6), d'une régularité exemplaire et confié à l'habile A. Barrier. Entre eux s'intercale IDEAL DE CASTELLE (12), qui bénéficie de la drive d'Éric Raffin et cherche sa course avec application à ce niveau. IMAGE D'ATALANTE (1) est incontournable au vu de ses deux récents accessits d'honneur, d'autant que Franck Nivard saura en tirer le meilleur parti. JALIMEDE (5), fort de deux victoires consécutives et mené par Yoann Lebourgeois, détient une première chance théorique mais devra s'adapter au profil d'Enghien. En couverture, IMHOTEP FROMENTRO (2) reste délicat mais possède la pointure s'il reste sage, tandis qu'IVOIRE PRESTANCE (4), sur la montante après sa deuxième place, peut pimenter les rapports.",
+    "statut": "en_attente",
+    "arrivee": null,
+    "gain": null
+  },
+  {
     "id": "1784280095448",
     "date": "2026-07-17",
     "mock": false,
@@ -76,9 +157,40 @@
     ],
     "mise_totale": 5,
     "analyse": "Pour ce Grand Prix de la Ville de Cabourg, un profil de piste très spécifique (à droite, piste de 1200m exigeant de la maniabilité), j'ai construit ma base sur la classe pure et la régularité. Le grand favori MACAHAN (4), confié à Matthieu Mottier, s'annonce redoutable même s'il vient de s'illustrer sous la selle ; sa classe à l'attelé est indéniable. KARNAC WOOD (8), entraîné par le redoutable Sébastien Guarato, présente de solides garanties et cherche sa course avec application. J'accorde un grand crédit à LITTLE BROWN (10), issu de l'écurie de Philippe Allaire et mené par David Thomain, un tandem toujours redoutable dans ce genre de tournois. KANO (5) brille par une régularité exemplaire (dans les trois premiers lors de ses dernières sorties) et constituera un point d'appui solide pour les places. Pour compléter ma sélection de base, HEUREUX DE FLEUR (6) sera associé au 'roi de Cabourg' Yoann Lebourgeois, un avantage déterminant sur cet hippodrome. En couverture, JOKER GEMA (2), venant de renouer avec le succès, et la régulière DIABEL (12), associée à François Lagadeuc, sont parfaits pour pimenter les rapports.",
-    "statut": "en_attente",
-    "arrivee": null,
-    "gain": null
+    "statut": "perdu",
+    "arrivee": [
+      4,
+      6,
+      2,
+      13,
+      12,
+      5,
+      8,
+      11
+    ],
+    "gain": 0,
+    "rapports": {
+      "ordre": 20071.6,
+      "desordre": 203.2,
+      "bonus4sur5": 5.2,
+      "bonus4": 5.2,
+      "bonus3": 3.8,
+      "estime": false
+    },
+    "resultats": [
+      {
+        "grille": "A",
+        "niveau": "perdu",
+        "rapport": 0,
+        "gain": 0
+      },
+      {
+        "grille": "B",
+        "niveau": "perdu",
+        "rapport": 0,
+        "gain": 0
+      }
+    ]
   },
   {
     "id": "1784194099283",
