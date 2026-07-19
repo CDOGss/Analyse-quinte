@@ -1,5 +1,86 @@
 [
   {
+    "id": "1784452590384",
+    "date": "2026-07-19",
+    "mock": false,
+    "hippodrome": "HIPPODROME DE CHANTILLY",
+    "reunion": "R1",
+    "course": "C3",
+    "discipline": "PLAT",
+    "nb_partants": 16,
+    "base": [
+      {
+        "num": 11,
+        "nom": "ANOTHER LIGHT",
+        "cote": 4.5,
+        "driver": "S.PASQUIER"
+      },
+      {
+        "num": 7,
+        "nom": "HIGHARA",
+        "cote": 7.7,
+        "driver": "PC.BOUDOT"
+      },
+      {
+        "num": 4,
+        "nom": "SEONA",
+        "cote": 11,
+        "driver": "M.GUYON"
+      },
+      {
+        "num": 13,
+        "nom": "WEEMAGATEE",
+        "cote": 11,
+        "driver": "M.BARZALONA"
+      },
+      {
+        "num": 2,
+        "nom": "HASAPIKO",
+        "cote": 13,
+        "driver": "T.BACHELOT"
+      }
+    ],
+    "spare": {
+      "num": 10,
+      "nom": "MISS TARKEN",
+      "cote": 14,
+      "driver": "P.REMOUE"
+    },
+    "grilles": [
+      {
+        "id": "A",
+        "type": "ordre",
+        "libelle": "Grille de base — Quinté+ (ordre)",
+        "chevaux": [
+          11,
+          7,
+          4,
+          13,
+          2
+        ],
+        "mise": 3
+      },
+      {
+        "id": "B",
+        "type": "couverture",
+        "libelle": "Grille couverture — 4 bases + outsider",
+        "chevaux": [
+          11,
+          7,
+          4,
+          13,
+          10
+        ],
+        "mise": 2
+      }
+    ],
+    "mise_totale": 5,
+    "analyse": "Une épreuve très ouverte sur la piste de Chantilly où notre favori sera le 11 ANOTHER LIGHT, entraîné par l'habile FH. Graffard et confié à S. Pasquier ; sa régularité et sa valeur résiduelle en font la base absolue. Nous lui opposons directement le 7 HIGHARA, qui aligne les excellentes performances (2p1p1p) et dont le jockey, Pierre-Charles Boudot, libéré de ses tourments judiciaires récents par la décision de la cour d'appel, aura à cœur de briller sur cet hippodrome qu'il connaît par cœur. Pour les places, le 4 SEONA bénéficie de la monte de Maxime Guyon et d'une grande régularité, tandis que le 13 WEEMAGATEE, associé à Mickaël Barzalona, est compétitif à ce poids. Le 2 HASAPIKO, entraîné par le redoutable Stéphane Wattel, et le 10 MISS TARKEN, en pleine possession de ses moyens, constitueront d'excellents choix pour pimenter les rapports de ce Quinté+.",
+    "statut": "en_attente",
+    "arrivee": null,
+    "gain": null
+  },
+  {
     "id": "1784367893551",
     "date": "2026-07-18",
     "mock": false,
@@ -76,9 +157,44 @@
     ],
     "mise_totale": 5,
     "analyse": "Pour ce Quinté+ à Enghien, la base semble solide avec le favori logiqe DAYAK (13), associé à un Benjamin Rochard en grande forme et venant de s'imposer avec la manière. L'écurie d'Arnaud Buisson est d'ailleurs particulièrement bien armée puisqu'elle présente aussi JAIN MAB (6), d'une régularité exemplaire et confié à l'habile A. Barrier. Entre eux s'intercale IDEAL DE CASTELLE (12), qui bénéficie de la drive d'Éric Raffin et cherche sa course avec application à ce niveau. IMAGE D'ATALANTE (1) est incontournable au vu de ses deux récents accessits d'honneur, d'autant que Franck Nivard saura en tirer le meilleur parti. JALIMEDE (5), fort de deux victoires consécutives et mené par Yoann Lebourgeois, détient une première chance théorique mais devra s'adapter au profil d'Enghien. En couverture, IMHOTEP FROMENTRO (2) reste délicat mais possède la pointure s'il reste sage, tandis qu'IVOIRE PRESTANCE (4), sur la montante après sa deuxième place, peut pimenter les rapports.",
-    "statut": "en_attente",
-    "arrivee": null,
-    "gain": null
+    "statut": "gagné",
+    "arrivee": [
+      13,
+      6,
+      1,
+      12,
+      4,
+      8,
+      11,
+      3,
+      9,
+      14,
+      7,
+      5
+    ],
+    "gain": 6,
+    "rapports": {
+      "ordre": 1658,
+      "desordre": 19,
+      "bonus4sur5": 2.4,
+      "bonus4": 2.4,
+      "bonus3": 2.2,
+      "estime": false
+    },
+    "resultats": [
+      {
+        "grille": "A",
+        "niveau": "bonus4",
+        "rapport": 2.4,
+        "gain": 3.6
+      },
+      {
+        "grille": "B",
+        "niveau": "bonus4",
+        "rapport": 2.4,
+        "gain": 2.4
+      }
+    ]
   },
   {
     "id": "1784280095448",
