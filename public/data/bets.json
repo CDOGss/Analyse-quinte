@@ -1,5 +1,86 @@
 [
   {
+    "id": "1784542858210",
+    "date": "2026-07-20",
+    "mock": false,
+    "hippodrome": "HIPPODROME DE VICHY",
+    "reunion": "R1",
+    "course": "C8",
+    "discipline": "PLAT",
+    "nb_partants": 16,
+    "base": [
+      {
+        "num": 1,
+        "nom": "TEN HORNS",
+        "cote": 6,
+        "driver": "A.POUCHIN"
+      },
+      {
+        "num": 2,
+        "nom": "BREIZH SKY",
+        "cote": 8.5,
+        "driver": "M.GUYON"
+      },
+      {
+        "num": 4,
+        "nom": "RIASSOU",
+        "cote": 10,
+        "driver": "A.MOLINS"
+      },
+      {
+        "num": 16,
+        "nom": "WAZIERS",
+        "cote": 11,
+        "driver": "D.BREUX"
+      },
+      {
+        "num": 3,
+        "nom": "DIVIDE AND RULE",
+        "cote": 13,
+        "driver": "PC.BOUDOT"
+      }
+    ],
+    "spare": {
+      "num": 6,
+      "nom": "MAXIMILIEN",
+      "cote": 11,
+      "driver": "M.GRANDIN"
+    },
+    "grilles": [
+      {
+        "id": "A",
+        "type": "ordre",
+        "libelle": "Grille de base — Quinté+ (ordre)",
+        "chevaux": [
+          1,
+          2,
+          4,
+          16,
+          3
+        ],
+        "mise": 3
+      },
+      {
+        "id": "B",
+        "type": "couverture",
+        "libelle": "Grille couverture — 4 bases + outsider",
+        "chevaux": [
+          1,
+          2,
+          4,
+          16,
+          6
+        ],
+        "mise": 2
+      }
+    ],
+    "mise_totale": 5,
+    "analyse": "Une épreuve très ouverte sur l'hippodrome de Vichy où la fraîcheur et la forme récente feront la différence. En base de notre pronostic, le top-weight TEN HORNS (1) présente des garanties exceptionnelles de régularité à ce niveau (associé à A. Pouchin) et s'annonce redoutable. Nous lui opposons directement BREIZH SKY (2), qui redescend de catégorie avec de hautes ambitions sous la selle de M. Guyon. En grande forme, RIASSOU (4) aligne les bonnes performances et devrait lutter pour les premières places. La très bonne note en bas de tableau est WAZIERS (16), idéalement placée au poids et très régulière en ce moment. L'attraction de la course est DIVIDE AND RULE (3) : suite à l'actualité judiciaire confirmant l'annulation de son renvoi aux assises, le crack-jockey Pierre-Charles Boudot est de retour en piste pour l'entraînement local et redoutable de JP. Gauvin ; sa motivation sera décuplée pour ce Quinté+. En couverture, MAXIMILIEN (6), d'une belle constance, et TESTIFY (5), le second atout Cottier en pleine ascension, complètent notre sélection.",
+    "statut": "en_attente",
+    "arrivee": null,
+    "gain": null
+  },
+  {
     "id": "1784452590384",
     "date": "2026-07-19",
     "mock": false,
@@ -76,9 +157,46 @@
     ],
     "mise_totale": 5,
     "analyse": "Une épreuve très ouverte sur la piste de Chantilly où notre favori sera le 11 ANOTHER LIGHT, entraîné par l'habile FH. Graffard et confié à S. Pasquier ; sa régularité et sa valeur résiduelle en font la base absolue. Nous lui opposons directement le 7 HIGHARA, qui aligne les excellentes performances (2p1p1p) et dont le jockey, Pierre-Charles Boudot, libéré de ses tourments judiciaires récents par la décision de la cour d'appel, aura à cœur de briller sur cet hippodrome qu'il connaît par cœur. Pour les places, le 4 SEONA bénéficie de la monte de Maxime Guyon et d'une grande régularité, tandis que le 13 WEEMAGATEE, associé à Mickaël Barzalona, est compétitif à ce poids. Le 2 HASAPIKO, entraîné par le redoutable Stéphane Wattel, et le 10 MISS TARKEN, en pleine possession de ses moyens, constitueront d'excellents choix pour pimenter les rapports de ce Quinté+.",
-    "statut": "en_attente",
-    "arrivee": null,
-    "gain": null
+    "statut": "perdu",
+    "arrivee": [
+      1,
+      13,
+      8,
+      9,
+      4,
+      3,
+      2,
+      11,
+      5,
+      6,
+      12,
+      10,
+      15,
+      7
+    ],
+    "gain": 0,
+    "rapports": {
+      "ordre": 0,
+      "desordre": 5447,
+      "bonus4sur5": 31.8,
+      "bonus4": 31.8,
+      "bonus3": 26,
+      "estime": false
+    },
+    "resultats": [
+      {
+        "grille": "A",
+        "niveau": "perdu",
+        "rapport": 0,
+        "gain": 0
+      },
+      {
+        "grille": "B",
+        "niveau": "perdu",
+        "rapport": 0,
+        "gain": 0
+      }
+    ]
   },
   {
     "id": "1784367893551",

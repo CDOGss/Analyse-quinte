@@ -1,26 +1,26 @@
-# 🏇 Grille Quinté+ du Jour — dimanche 19 juillet 2026
+# 🏇 Grille Quinté+ du Jour — lundi 20 juillet 2026
 
-**HIPPODROME DE CHANTILLY** · R1C3 · PLAT
+**HIPPODROME DE VICHY** · R1C8 · PLAT
 
 ## 🎯 Base pronostiquée (dans l'ordre)
 
 | Rang | N° | Cheval | Cote |
 |---|---|---|---|
-| 1 | **11** | ANOTHER LIGHT | 4.5 |
-| 2 | **7** | HIGHARA | 7.7 |
-| 3 | **4** | SEONA | 11 |
-| 4 | **13** | WEEMAGATEE | 11 |
-| 5 | **2** | HASAPIKO | 13 |
-| Outsider | **10** | MISS TARKEN | 14 |
+| 1 | **1** | TEN HORNS | 6 |
+| 2 | **2** | BREIZH SKY | 8.5 |
+| 3 | **4** | RIASSOU | 10 |
+| 4 | **16** | WAZIERS | 11 |
+| 5 | **3** | DIVIDE AND RULE | 13 |
+| Outsider | **6** | MAXIMILIEN | 11 |
 
 ## 🎫 Grilles jouées (5.00 €)
 
-- **Grille de base — Quinté+ (ordre)** (3.00 €) : 11 - 7 - 4 - 13 - 2
-- **Grille couverture — 4 bases + outsider** (2.00 €) : 11 - 7 - 4 - 13 - 10
+- **Grille de base — Quinté+ (ordre)** (3.00 €) : 1 - 2 - 4 - 16 - 3
+- **Grille couverture — 4 bases + outsider** (2.00 €) : 1 - 2 - 4 - 16 - 6
 
 ## 🧠 Analyse de l'IA
 
-> Une épreuve très ouverte sur la piste de Chantilly où notre favori sera le 11 ANOTHER LIGHT, entraîné par l'habile FH. Graffard et confié à S. Pasquier ; sa régularité et sa valeur résiduelle en font la base absolue. Nous lui opposons directement le 7 HIGHARA, qui aligne les excellentes performances (2p1p1p) et dont le jockey, Pierre-Charles Boudot, libéré de ses tourments judiciaires récents par la décision de la cour d'appel, aura à cœur de briller sur cet hippodrome qu'il connaît par cœur. Pour les places, le 4 SEONA bénéficie de la monte de Maxime Guyon et d'une grande régularité, tandis que le 13 WEEMAGATEE, associé à Mickaël Barzalona, est compétitif à ce poids. Le 2 HASAPIKO, entraîné par le redoutable Stéphane Wattel, et le 10 MISS TARKEN, en pleine possession de ses moyens, constitueront d'excellents choix pour pimenter les rapports de ce Quinté+.
+> Une épreuve très ouverte sur l'hippodrome de Vichy où la fraîcheur et la forme récente feront la différence. En base de notre pronostic, le top-weight TEN HORNS (1) présente des garanties exceptionnelles de régularité à ce niveau (associé à A. Pouchin) et s'annonce redoutable. Nous lui opposons directement BREIZH SKY (2), qui redescend de catégorie avec de hautes ambitions sous la selle de M. Guyon. En grande forme, RIASSOU (4) aligne les bonnes performances et devrait lutter pour les premières places. La très bonne note en bas de tableau est WAZIERS (16), idéalement placée au poids et très régulière en ce moment. L'attraction de la course est DIVIDE AND RULE (3) : suite à l'actualité judiciaire confirmant l'annulation de son renvoi aux assises, le crack-jockey Pierre-Charles Boudot est de retour en piste pour l'entraînement local et redoutable de JP. Gauvin ; sa motivation sera décuplée pour ce Quinté+. En couverture, MAXIMILIEN (6), d'une belle constance, et TESTIFY (5), le second atout Cottier en pleine ascension, complètent notre sélection.
 
 ---
 *Généré automatiquement par Gemini · Simulation à blanc. Jouer comporte des risques (18+).*
