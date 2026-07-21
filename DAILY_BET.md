@@ -1,4 +1,4 @@
-# 🏇 Grille Quinté+ du Jour — lundi 20 juillet 2026
+# 🏇 Grille Quinté+ du Jour — mardi 21 juillet 2026
 
 **HIPPODROME DE VICHY** · R1C8 · PLAT
 
@@ -6,21 +6,21 @@
 
 | Rang | N° | Cheval | Cote |
 |---|---|---|---|
-| 1 | **1** | TEN HORNS | 6 |
-| 2 | **2** | BREIZH SKY | 8.5 |
-| 3 | **4** | RIASSOU | 10 |
-| 4 | **16** | WAZIERS | 11 |
-| 5 | **3** | DIVIDE AND RULE | 13 |
-| Outsider | **6** | MAXIMILIEN | 11 |
+| 1 | **1** | LOHENGREEN | 4.9 |
+| 2 | **4** | HEPBURN | 8.2 |
+| 3 | **14** | ZARABABY | 6.8 |
+| 4 | **3** | SELVO | 8.9 |
+| 5 | **13** | AUTOROUTE | 13 |
+| Outsider | **12** | DERNI CHOP | 16 |
 
 ## 🎫 Grilles jouées (5.00 €)
 
-- **Grille de base — Quinté+ (ordre)** (3.00 €) : 1 - 2 - 4 - 16 - 3
-- **Grille couverture — 4 bases + outsider** (2.00 €) : 1 - 2 - 4 - 16 - 6
+- **Grille de base — Quinté+ (ordre)** (3.00 €) : 1 - 4 - 14 - 3 - 13
+- **Grille couverture — 4 bases + outsider** (2.00 €) : 1 - 4 - 14 - 3 - 12
 
 ## 🧠 Analyse de l'IA
 
-> Une épreuve très ouverte sur l'hippodrome de Vichy où la fraîcheur et la forme récente feront la différence. En base de notre pronostic, le top-weight TEN HORNS (1) présente des garanties exceptionnelles de régularité à ce niveau (associé à A. Pouchin) et s'annonce redoutable. Nous lui opposons directement BREIZH SKY (2), qui redescend de catégorie avec de hautes ambitions sous la selle de M. Guyon. En grande forme, RIASSOU (4) aligne les bonnes performances et devrait lutter pour les premières places. La très bonne note en bas de tableau est WAZIERS (16), idéalement placée au poids et très régulière en ce moment. L'attraction de la course est DIVIDE AND RULE (3) : suite à l'actualité judiciaire confirmant l'annulation de son renvoi aux assises, le crack-jockey Pierre-Charles Boudot est de retour en piste pour l'entraînement local et redoutable de JP. Gauvin ; sa motivation sera décuplée pour ce Quinté+. En couverture, MAXIMILIEN (6), d'une belle constance, et TESTIFY (5), le second atout Cottier en pleine ascension, complètent notre sélection.
+> Pour ce Quinté+ vichyssois sur le plat, la logique et la régularité sont privilégiées. L'entraînement de Charley Escuder détient les clés de la course avec deux cartouches de premier ordre : LOHENGREEN (1), incontournable favori associé à Cristian Demuro, et HEPBURN (4), d'une régularité de métronome à ce niveau. ZARABABY (14), très appuyé à la cote (6.8), et SELVO (3), confié au crack-jockey Maxime Guyon, constituent la base logique de ce pronostic. Pour pimenter les rapports, nous glissons le sérieux AUTOROUTE (13), dépêché par l'habile Henri-Alexandre Pantall, ainsi que DERNI CHOP (12) pour sa régularité. Enfin, I AM MAELIA (7), entraînée par le régional Jean-Pierre Gauvin et montée par Marie Velon, excelle sur cet hippodrome et offre un excellent profil de couverture à belle cote. Les rumeurs et actualités judiciaires récentes autour du dopage incitent à la prudence et à privilégier ici des écuries classiques au professionnalisme avéré pour sécuriser vos jeux.
 
 ---
 *Généré automatiquement par Gemini · Simulation à blanc. Jouer comporte des risques (18+).*

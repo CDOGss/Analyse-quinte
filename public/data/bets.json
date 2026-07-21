@@ -1,5 +1,86 @@
 [
   {
+    "id": "1784626779767",
+    "date": "2026-07-21",
+    "mock": false,
+    "hippodrome": "HIPPODROME DE VICHY",
+    "reunion": "R1",
+    "course": "C8",
+    "discipline": "PLAT",
+    "nb_partants": 15,
+    "base": [
+      {
+        "num": 1,
+        "nom": "LOHENGREEN",
+        "cote": 4.9,
+        "driver": "C.DEMURO"
+      },
+      {
+        "num": 4,
+        "nom": "HEPBURN",
+        "cote": 8.2,
+        "driver": "M.GRANDIN"
+      },
+      {
+        "num": 14,
+        "nom": "ZARABABY",
+        "cote": 6.8,
+        "driver": "L.BOISSEAU"
+      },
+      {
+        "num": 3,
+        "nom": "SELVO",
+        "cote": 8.9,
+        "driver": "M.GUYON"
+      },
+      {
+        "num": 13,
+        "nom": "AUTOROUTE",
+        "cote": 13,
+        "driver": "A.CRASTUS"
+      }
+    ],
+    "spare": {
+      "num": 12,
+      "nom": "DERNI CHOP",
+      "cote": 16,
+      "driver": "L.PLOMMEE"
+    },
+    "grilles": [
+      {
+        "id": "A",
+        "type": "ordre",
+        "libelle": "Grille de base — Quinté+ (ordre)",
+        "chevaux": [
+          1,
+          4,
+          14,
+          3,
+          13
+        ],
+        "mise": 3
+      },
+      {
+        "id": "B",
+        "type": "couverture",
+        "libelle": "Grille couverture — 4 bases + outsider",
+        "chevaux": [
+          1,
+          4,
+          14,
+          3,
+          12
+        ],
+        "mise": 2
+      }
+    ],
+    "mise_totale": 5,
+    "analyse": "Pour ce Quinté+ vichyssois sur le plat, la logique et la régularité sont privilégiées. L'entraînement de Charley Escuder détient les clés de la course avec deux cartouches de premier ordre : LOHENGREEN (1), incontournable favori associé à Cristian Demuro, et HEPBURN (4), d'une régularité de métronome à ce niveau. ZARABABY (14), très appuyé à la cote (6.8), et SELVO (3), confié au crack-jockey Maxime Guyon, constituent la base logique de ce pronostic. Pour pimenter les rapports, nous glissons le sérieux AUTOROUTE (13), dépêché par l'habile Henri-Alexandre Pantall, ainsi que DERNI CHOP (12) pour sa régularité. Enfin, I AM MAELIA (7), entraînée par le régional Jean-Pierre Gauvin et montée par Marie Velon, excelle sur cet hippodrome et offre un excellent profil de couverture à belle cote. Les rumeurs et actualités judiciaires récentes autour du dopage incitent à la prudence et à privilégier ici des écuries classiques au professionnalisme avéré pour sécuriser vos jeux.",
+    "statut": "en_attente",
+    "arrivee": null,
+    "gain": null
+  },
+  {
     "id": "1784542858210",
     "date": "2026-07-20",
     "mock": false,
@@ -76,9 +157,47 @@
     ],
     "mise_totale": 5,
     "analyse": "Une épreuve très ouverte sur l'hippodrome de Vichy où la fraîcheur et la forme récente feront la différence. En base de notre pronostic, le top-weight TEN HORNS (1) présente des garanties exceptionnelles de régularité à ce niveau (associé à A. Pouchin) et s'annonce redoutable. Nous lui opposons directement BREIZH SKY (2), qui redescend de catégorie avec de hautes ambitions sous la selle de M. Guyon. En grande forme, RIASSOU (4) aligne les bonnes performances et devrait lutter pour les premières places. La très bonne note en bas de tableau est WAZIERS (16), idéalement placée au poids et très régulière en ce moment. L'attraction de la course est DIVIDE AND RULE (3) : suite à l'actualité judiciaire confirmant l'annulation de son renvoi aux assises, le crack-jockey Pierre-Charles Boudot est de retour en piste pour l'entraînement local et redoutable de JP. Gauvin ; sa motivation sera décuplée pour ce Quinté+. En couverture, MAXIMILIEN (6), d'une belle constance, et TESTIFY (5), le second atout Cottier en pleine ascension, complètent notre sélection.",
-    "statut": "en_attente",
-    "arrivee": null,
-    "gain": null
+    "statut": "perdu",
+    "arrivee": [
+      15,
+      11,
+      1,
+      13,
+      2,
+      12,
+      6,
+      14,
+      9,
+      7,
+      4,
+      5,
+      10,
+      16,
+      8
+    ],
+    "gain": 0,
+    "rapports": {
+      "ordre": 109064.6,
+      "desordre": 893.4,
+      "bonus4sur5": 19.8,
+      "bonus4": 19.8,
+      "bonus3": 15.4,
+      "estime": false
+    },
+    "resultats": [
+      {
+        "grille": "A",
+        "niveau": "perdu",
+        "rapport": 0,
+        "gain": 0
+      },
+      {
+        "grille": "B",
+        "niveau": "perdu",
+        "rapport": 0,
+        "gain": 0
+      }
+    ]
   },
   {
     "id": "1784452590384",
