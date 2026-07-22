@@ -53,7 +53,7 @@ npm run analyze        # génère une grille (sans clé API => mode SIMULÉ)
 Crée un fichier `.env` (voir [`.env.example`](.env.example)) :
 ```
 GEMINI_API_KEY=ta_clef
-GEMINI_MODEL=gemini-3.5-flash
+GEMINI_MODEL=gemini-3.6-flash
 ```
 Sans clé, le script tourne en **mode simulation** (classement par cotes) : pratique
 pour vérifier le pipeline sans consommer de quota.
@@ -62,7 +62,7 @@ pour vérifier le pipeline sans consommer de quota.
 1. Crée un dépôt et pousse ce dossier (branche **`main`**).
 2. **Settings → Secrets and variables → Actions** :
    - *Secret* `GEMINI_API_KEY` = ta clé Gemini.
-   - *Variable* (optionnel) `GEMINI_MODEL` = `gemini-3.5-flash`.
+   - *Variable* (optionnel) `GEMINI_MODEL` = `gemini-3.6-flash`.
 3. **Settings → Pages** : Source = *GitHub Actions*.
 4. Le workflow **Analyse Quinté quotidienne** tourne chaque matin (heure de Paris)
    et pousse la nouvelle grille ; le dashboard se redéploie automatiquement.

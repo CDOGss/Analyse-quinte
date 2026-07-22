@@ -22,7 +22,7 @@ const BETS_FILE = path.join(__dirname, '../public/data/bets.json');
 const DAILY_BET_MD = path.join(__dirname, '../DAILY_BET.md');
 
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
-const GEMINI_MODEL = process.env.GEMINI_MODEL || 'gemini-3.5-flash';
+const GEMINI_MODEL = process.env.GEMINI_MODEL || 'gemini-3.6-flash';
 
 // Budget de mise quotidien, réparti sur 2 grilles (paper trading "à blanc").
 const MISE_TOTALE = 5.0;
