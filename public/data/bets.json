@@ -1,5 +1,86 @@
 [
   {
+    "id": "1784713130662",
+    "date": "2026-07-22",
+    "mock": false,
+    "hippodrome": "HIPPODROME D'ENGHIEN SOISY",
+    "reunion": "R1",
+    "course": "C8",
+    "discipline": "ATTELE",
+    "nb_partants": 15,
+    "base": [
+      {
+        "num": 13,
+        "nom": "MAVERICK DE FAEL",
+        "cote": 6,
+        "driver": "M. ABRIVARD"
+      },
+      {
+        "num": 9,
+        "nom": "MONTANA KALOUMA",
+        "cote": 3,
+        "driver": "THEO DUVALDESTIN"
+      },
+      {
+        "num": 4,
+        "nom": "MEYDAN VOIRONS",
+        "cote": 9,
+        "driver": "A. LAURENT"
+      },
+      {
+        "num": 10,
+        "nom": "MERCURE D'ELLE",
+        "cote": 10,
+        "driver": "B. ROCHARD"
+      },
+      {
+        "num": 14,
+        "nom": "MOURILLON",
+        "cote": 12,
+        "driver": "M. MOTTIER"
+      }
+    ],
+    "spare": {
+      "num": 7,
+      "nom": "MORE LOVE DUCAMPUS",
+      "cote": 20,
+      "driver": "A. ABRIVARD"
+    },
+    "grilles": [
+      {
+        "id": "A",
+        "type": "ordre",
+        "libelle": "Grille de base — Quinté+ (ordre)",
+        "chevaux": [
+          13,
+          9,
+          4,
+          10,
+          14
+        ],
+        "mise": 3
+      },
+      {
+        "id": "B",
+        "type": "couverture",
+        "libelle": "Grille couverture — 4 bases + outsider",
+        "chevaux": [
+          13,
+          9,
+          4,
+          10,
+          7
+        ],
+        "mise": 2
+      }
+    ],
+    "mise_totale": 5,
+    "analyse": "Ce Quinté+ à Enghien met en lumière la redoutable armada de l'entraînement de Thierry Duvaldestin. Nous installons en tête de notre sélection MAVERICK DE FAEL (13) : d'une régularité exemplaire (1a2a2a4a) et confié à Matthieu Abrivard, il offre de bien meilleures garanties de sagesse que son compagnon d'écurie MONTANA KALOUMA (9). Ce dernier possède un moteur de premier ordre mais reste très délicat (gagnant ou disqualifié). MEYDAN VOIRONS (4) est l'opposition directe, fort de ses deux récents succès autoritaires. Pour compléter notre base, MERCURE D'ELLE (10), qui enchaîne les bonnes performances avec Benjamin Rochard, et MOURILLON (14), très compétitif à ce niveau, sont incontournables. En couverture, MORE LOVE DUCAMPUS (7) est capable de refaire parler de lui avec Alexandre Abrivard, tandis que MICHEL MARTIN (5) sera notre coup de folie, la présence d'Éric Raffin au sulky incitant à la plus grande méfiance. Les actualités judiciaires et les remous dans le monde du galop (Prix du Jockey Club) n'impactent en rien les forces en présence pour cette épreuve de trot attelé où la forme pure et la qualité des pistes d'Enghien feront la différence.",
+    "statut": "en_attente",
+    "arrivee": null,
+    "gain": null
+  },
+  {
     "id": "1784626779767",
     "date": "2026-07-21",
     "mock": false,
@@ -76,9 +157,47 @@
     ],
     "mise_totale": 5,
     "analyse": "Pour ce Quinté+ vichyssois sur le plat, la logique et la régularité sont privilégiées. L'entraînement de Charley Escuder détient les clés de la course avec deux cartouches de premier ordre : LOHENGREEN (1), incontournable favori associé à Cristian Demuro, et HEPBURN (4), d'une régularité de métronome à ce niveau. ZARABABY (14), très appuyé à la cote (6.8), et SELVO (3), confié au crack-jockey Maxime Guyon, constituent la base logique de ce pronostic. Pour pimenter les rapports, nous glissons le sérieux AUTOROUTE (13), dépêché par l'habile Henri-Alexandre Pantall, ainsi que DERNI CHOP (12) pour sa régularité. Enfin, I AM MAELIA (7), entraînée par le régional Jean-Pierre Gauvin et montée par Marie Velon, excelle sur cet hippodrome et offre un excellent profil de couverture à belle cote. Les rumeurs et actualités judiciaires récentes autour du dopage incitent à la prudence et à privilégier ici des écuries classiques au professionnalisme avéré pour sécuriser vos jeux.",
-    "statut": "en_attente",
-    "arrivee": null,
-    "gain": null
+    "statut": "perdu",
+    "arrivee": [
+      4,
+      8,
+      14,
+      13,
+      6,
+      10,
+      12,
+      3,
+      15,
+      5,
+      9,
+      7,
+      11,
+      1,
+      2
+    ],
+    "gain": 0,
+    "rapports": {
+      "ordre": 0,
+      "desordre": 1130.4,
+      "bonus4sur5": 9,
+      "bonus4": 9,
+      "bonus3": 6.6,
+      "estime": false
+    },
+    "resultats": [
+      {
+        "grille": "A",
+        "niveau": "perdu",
+        "rapport": 0,
+        "gain": 0
+      },
+      {
+        "grille": "B",
+        "niveau": "perdu",
+        "rapport": 0,
+        "gain": 0
+      }
+    ]
   },
   {
     "id": "1784542858210",

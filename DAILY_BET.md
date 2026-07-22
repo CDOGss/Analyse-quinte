@@ -1,26 +1,26 @@
-# 🏇 Grille Quinté+ du Jour — mardi 21 juillet 2026
+# 🏇 Grille Quinté+ du Jour — mercredi 22 juillet 2026
 
-**HIPPODROME DE VICHY** · R1C8 · PLAT
+**HIPPODROME D'ENGHIEN SOISY** · R1C8 · ATTELE
 
 ## 🎯 Base pronostiquée (dans l'ordre)
 
 | Rang | N° | Cheval | Cote |
 |---|---|---|---|
-| 1 | **1** | LOHENGREEN | 4.9 |
-| 2 | **4** | HEPBURN | 8.2 |
-| 3 | **14** | ZARABABY | 6.8 |
-| 4 | **3** | SELVO | 8.9 |
-| 5 | **13** | AUTOROUTE | 13 |
-| Outsider | **12** | DERNI CHOP | 16 |
+| 1 | **13** | MAVERICK DE FAEL | 6 |
+| 2 | **9** | MONTANA KALOUMA | 3 |
+| 3 | **4** | MEYDAN VOIRONS | 9 |
+| 4 | **10** | MERCURE D'ELLE | 10 |
+| 5 | **14** | MOURILLON | 12 |
+| Outsider | **7** | MORE LOVE DUCAMPUS | 20 |
 
 ## 🎫 Grilles jouées (5.00 €)
 
-- **Grille de base — Quinté+ (ordre)** (3.00 €) : 1 - 4 - 14 - 3 - 13
-- **Grille couverture — 4 bases + outsider** (2.00 €) : 1 - 4 - 14 - 3 - 12
+- **Grille de base — Quinté+ (ordre)** (3.00 €) : 13 - 9 - 4 - 10 - 14
+- **Grille couverture — 4 bases + outsider** (2.00 €) : 13 - 9 - 4 - 10 - 7
 
 ## 🧠 Analyse de l'IA
 
-> Pour ce Quinté+ vichyssois sur le plat, la logique et la régularité sont privilégiées. L'entraînement de Charley Escuder détient les clés de la course avec deux cartouches de premier ordre : LOHENGREEN (1), incontournable favori associé à Cristian Demuro, et HEPBURN (4), d'une régularité de métronome à ce niveau. ZARABABY (14), très appuyé à la cote (6.8), et SELVO (3), confié au crack-jockey Maxime Guyon, constituent la base logique de ce pronostic. Pour pimenter les rapports, nous glissons le sérieux AUTOROUTE (13), dépêché par l'habile Henri-Alexandre Pantall, ainsi que DERNI CHOP (12) pour sa régularité. Enfin, I AM MAELIA (7), entraînée par le régional Jean-Pierre Gauvin et montée par Marie Velon, excelle sur cet hippodrome et offre un excellent profil de couverture à belle cote. Les rumeurs et actualités judiciaires récentes autour du dopage incitent à la prudence et à privilégier ici des écuries classiques au professionnalisme avéré pour sécuriser vos jeux.
+> Ce Quinté+ à Enghien met en lumière la redoutable armada de l'entraînement de Thierry Duvaldestin. Nous installons en tête de notre sélection MAVERICK DE FAEL (13) : d'une régularité exemplaire (1a2a2a4a) et confié à Matthieu Abrivard, il offre de bien meilleures garanties de sagesse que son compagnon d'écurie MONTANA KALOUMA (9). Ce dernier possède un moteur de premier ordre mais reste très délicat (gagnant ou disqualifié). MEYDAN VOIRONS (4) est l'opposition directe, fort de ses deux récents succès autoritaires. Pour compléter notre base, MERCURE D'ELLE (10), qui enchaîne les bonnes performances avec Benjamin Rochard, et MOURILLON (14), très compétitif à ce niveau, sont incontournables. En couverture, MORE LOVE DUCAMPUS (7) est capable de refaire parler de lui avec Alexandre Abrivard, tandis que MICHEL MARTIN (5) sera notre coup de folie, la présence d'Éric Raffin au sulky incitant à la plus grande méfiance. Les actualités judiciaires et les remous dans le monde du galop (Prix du Jockey Club) n'impactent en rien les forces en présence pour cette épreuve de trot attelé où la forme pure et la qualité des pistes d'Enghien feront la différence.
 
 ---
 *Généré automatiquement par Gemini · Simulation à blanc. Jouer comporte des risques (18+).*
