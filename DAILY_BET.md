@@ -1,26 +1,26 @@
-# 🏇 Grille Quinté+ du Jour — mercredi 22 juillet 2026
+# 🏇 Grille Quinté+ du Jour — jeudi 23 juillet 2026
 
-**HIPPODROME D'ENGHIEN SOISY** · R1C8 · ATTELE
+**HIPPODROME DE VICHY** · R1C8 · PLAT
 
 ## 🎯 Base pronostiquée (dans l'ordre)
 
 | Rang | N° | Cheval | Cote |
 |---|---|---|---|
-| 1 | **13** | MAVERICK DE FAEL | 6 |
-| 2 | **9** | MONTANA KALOUMA | 3 |
-| 3 | **4** | MEYDAN VOIRONS | 9 |
-| 4 | **10** | MERCURE D'ELLE | 10 |
-| 5 | **14** | MOURILLON | 12 |
-| Outsider | **7** | MORE LOVE DUCAMPUS | 20 |
+| 1 | **4** | SPANISH PRINCE | 4.4 |
+| 2 | **9** | GUINESS STAR | 7.6 |
+| 3 | **11** | BLACK ULTRA | 8.7 |
+| 4 | **6** | DON'T SHUT ME DOWN | 9.5 |
+| 5 | **7** | MIGHTY BOY | 17 |
+| Outsider | **5** | GOLDEN BLUSH | 16 |
 
 ## 🎫 Grilles jouées (5.00 €)
 
-- **Grille de base — Quinté+ (ordre)** (3.00 €) : 13 - 9 - 4 - 10 - 14
-- **Grille couverture — 4 bases + outsider** (2.00 €) : 13 - 9 - 4 - 10 - 7
+- **Grille de base — Quinté+ (ordre)** (3.00 €) : 4 - 9 - 11 - 6 - 7
+- **Grille couverture — 4 bases + outsider** (2.00 €) : 4 - 9 - 11 - 6 - 5
 
 ## 🧠 Analyse de l'IA
 
-> Ce Quinté+ à Enghien met en lumière la redoutable armada de l'entraînement de Thierry Duvaldestin. Nous installons en tête de notre sélection MAVERICK DE FAEL (13) : d'une régularité exemplaire (1a2a2a4a) et confié à Matthieu Abrivard, il offre de bien meilleures garanties de sagesse que son compagnon d'écurie MONTANA KALOUMA (9). Ce dernier possède un moteur de premier ordre mais reste très délicat (gagnant ou disqualifié). MEYDAN VOIRONS (4) est l'opposition directe, fort de ses deux récents succès autoritaires. Pour compléter notre base, MERCURE D'ELLE (10), qui enchaîne les bonnes performances avec Benjamin Rochard, et MOURILLON (14), très compétitif à ce niveau, sont incontournables. En couverture, MORE LOVE DUCAMPUS (7) est capable de refaire parler de lui avec Alexandre Abrivard, tandis que MICHEL MARTIN (5) sera notre coup de folie, la présence d'Éric Raffin au sulky incitant à la plus grande méfiance. Les actualités judiciaires et les remous dans le monde du galop (Prix du Jockey Club) n'impactent en rien les forces en présence pour cette épreuve de trot attelé où la forme pure et la qualité des pistes d'Enghien feront la différence.
+> Sur cet hippodrome exigeant de Vichy, la régularité et le tandem jockey/entraîneur seront prépondérants. Le favori logiquement incontournable est SPANISH PRINCE (4), irréprochable au vu de sa musique (2p2p3p1p3p) et associé au duo de choc C. Demuro / J. Reynier. GUINESS STAR (9) s'impose comme une opposition directe très sérieuse après une excellente 2e place récente. BLACK ULTRA (11), qui reste sur une victoire convaincante, et DON'T SHUT ME DOWN (6), confié à Maxime Guyon, forment une base solide pour le Top 5. Pour compléter la combinaison, MIGHTY BOY (7) bénéficie de la monte de Mickaël Barzalona et monte en puissance. En couverture, GOLDEN BLUSH (5), en pleine euphorie victorieuse, et PINK MONDAY (14) disposent de réelles cartes à jouer à de belles cotes. Les récentes actualités judiciaires ou d'actualité générale n'impactent pas directement ces partants, ce qui permet de se concentrer pleinement sur la forme stricte et la valeur handicap des chevaux.
 
 ---
 *Généré automatiquement par Gemini · Simulation à blanc. Jouer comporte des risques (18+).*

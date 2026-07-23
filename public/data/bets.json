@@ -1,5 +1,86 @@
 [
   {
+    "id": "1784802882248",
+    "date": "2026-07-23",
+    "mock": false,
+    "hippodrome": "HIPPODROME DE VICHY",
+    "reunion": "R1",
+    "course": "C8",
+    "discipline": "PLAT",
+    "nb_partants": 16,
+    "base": [
+      {
+        "num": 4,
+        "nom": "SPANISH PRINCE",
+        "cote": 4.4,
+        "driver": "C.DEMURO"
+      },
+      {
+        "num": 9,
+        "nom": "GUINESS STAR",
+        "cote": 7.6,
+        "driver": "O.ANDIGNE"
+      },
+      {
+        "num": 11,
+        "nom": "BLACK ULTRA",
+        "cote": 8.7,
+        "driver": "A.CRASTUS"
+      },
+      {
+        "num": 6,
+        "nom": "DON'T SHUT ME DOWN",
+        "cote": 9.5,
+        "driver": "M.GUYON"
+      },
+      {
+        "num": 7,
+        "nom": "MIGHTY BOY",
+        "cote": 17,
+        "driver": "M.BARZALONA"
+      }
+    ],
+    "spare": {
+      "num": 5,
+      "nom": "GOLDEN BLUSH",
+      "cote": 16,
+      "driver": "T.TRULLIER"
+    },
+    "grilles": [
+      {
+        "id": "A",
+        "type": "ordre",
+        "libelle": "Grille de base — Quinté+ (ordre)",
+        "chevaux": [
+          4,
+          9,
+          11,
+          6,
+          7
+        ],
+        "mise": 3
+      },
+      {
+        "id": "B",
+        "type": "couverture",
+        "libelle": "Grille couverture — 4 bases + outsider",
+        "chevaux": [
+          4,
+          9,
+          11,
+          6,
+          5
+        ],
+        "mise": 2
+      }
+    ],
+    "mise_totale": 5,
+    "analyse": "Sur cet hippodrome exigeant de Vichy, la régularité et le tandem jockey/entraîneur seront prépondérants. Le favori logiquement incontournable est SPANISH PRINCE (4), irréprochable au vu de sa musique (2p2p3p1p3p) et associé au duo de choc C. Demuro / J. Reynier. GUINESS STAR (9) s'impose comme une opposition directe très sérieuse après une excellente 2e place récente. BLACK ULTRA (11), qui reste sur une victoire convaincante, et DON'T SHUT ME DOWN (6), confié à Maxime Guyon, forment une base solide pour le Top 5. Pour compléter la combinaison, MIGHTY BOY (7) bénéficie de la monte de Mickaël Barzalona et monte en puissance. En couverture, GOLDEN BLUSH (5), en pleine euphorie victorieuse, et PINK MONDAY (14) disposent de réelles cartes à jouer à de belles cotes. Les récentes actualités judiciaires ou d'actualité générale n'impactent pas directement ces partants, ce qui permet de se concentrer pleinement sur la forme stricte et la valeur handicap des chevaux.",
+    "statut": "en_attente",
+    "arrivee": null,
+    "gain": null
+  },
+  {
     "id": "1784713130662",
     "date": "2026-07-22",
     "mock": false,
@@ -76,9 +157,42 @@
     ],
     "mise_totale": 5,
     "analyse": "Ce Quinté+ à Enghien met en lumière la redoutable armada de l'entraînement de Thierry Duvaldestin. Nous installons en tête de notre sélection MAVERICK DE FAEL (13) : d'une régularité exemplaire (1a2a2a4a) et confié à Matthieu Abrivard, il offre de bien meilleures garanties de sagesse que son compagnon d'écurie MONTANA KALOUMA (9). Ce dernier possède un moteur de premier ordre mais reste très délicat (gagnant ou disqualifié). MEYDAN VOIRONS (4) est l'opposition directe, fort de ses deux récents succès autoritaires. Pour compléter notre base, MERCURE D'ELLE (10), qui enchaîne les bonnes performances avec Benjamin Rochard, et MOURILLON (14), très compétitif à ce niveau, sont incontournables. En couverture, MORE LOVE DUCAMPUS (7) est capable de refaire parler de lui avec Alexandre Abrivard, tandis que MICHEL MARTIN (5) sera notre coup de folie, la présence d'Éric Raffin au sulky incitant à la plus grande méfiance. Les actualités judiciaires et les remous dans le monde du galop (Prix du Jockey Club) n'impactent en rien les forces en présence pour cette épreuve de trot attelé où la forme pure et la qualité des pistes d'Enghien feront la différence.",
-    "statut": "en_attente",
-    "arrivee": null,
-    "gain": null
+    "statut": "perdu",
+    "arrivee": [
+      13,
+      4,
+      6,
+      10,
+      8,
+      3,
+      1,
+      9,
+      2,
+      7
+    ],
+    "gain": 0,
+    "rapports": {
+      "ordre": 14181.6,
+      "desordre": 173.6,
+      "bonus4sur5": 7.6,
+      "bonus4": 7.6,
+      "bonus3": 6.2,
+      "estime": false
+    },
+    "resultats": [
+      {
+        "grille": "A",
+        "niveau": "perdu",
+        "rapport": 0,
+        "gain": 0
+      },
+      {
+        "grille": "B",
+        "niveau": "perdu",
+        "rapport": 0,
+        "gain": 0
+      }
+    ]
   },
   {
     "id": "1784626779767",
