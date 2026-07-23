@@ -6,9 +6,9 @@ on:
     # On génère la grille le matin (heure de Paris) avec plusieurs tentatives,
     # car GitHub retarde souvent les crons. Le garde-fou anti-doublon fait que
     # seule la première exécution réussie du jour crée la grille.
-    - cron: '15 7 * * *'   # 09h15 Paris (été) — 1re tentative
-    - cron: '15 8 * * *'   # 10h15 Paris — 2e tentative
-    - cron: '15 9 * * *'   # 11h15 Paris — dernier filet
+    - cron: '12 7 * * *'   # 09h12 Paris (été) — 1re tentative
+    - cron: '12 8 * * *'   # 10h12 Paris — 2e tentative
+    - cron: '12 9 * * *'   # 11h12 Paris — dernier filet
   workflow_dispatch:
 
 jobs:
